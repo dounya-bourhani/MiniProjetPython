@@ -44,13 +44,13 @@ class Corpus:
         for i in range(nbDocs):
              print(docSorted[i][1])
              
-    def save(self):
-        f = open("corpus.txt", "w")
+    def save(self, filename):
+        f = open(filename+".txt", "w")
         f.write(self.__repr__())
         f.close()
         
-    def load(self):
-        f = open("corpus.txt", "r")
+    def load(self, filename):
+        f = open(filename+".txt", "r")
         return f.read()
     
     def search (self, keyword, text):

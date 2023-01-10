@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec  1 12:16:58 2022
+Created on Tue Jan 10 17:57:11 2023
 
 @author: bourh
 """
-
 # RedditDocument
+
 import DocumentsGenerator as docGen
 
 import praw
@@ -25,7 +25,26 @@ for post in subr.hot(limit=100):
     documentReddit = docGen.DocumentsGenerator.factory("Reddit", post.title, post.author, datetime.datetime.fromtimestamp(post.created), post.url, post.selftext, 1)
     id2doc[i] = documentReddit
     i += 1
-print(documentReddit.getTexte())
+
+# création corpus Reddit
+import Author as aut
+import Corpus as corp
+
+id2aut = {} 
+
+for doc in id2doc :
+    document = id2doc[doc]
+    if document.getAuteur() not in id2aut:
+        nouvAuteur = aut.Author(document.getAuteur(), 0, {})
+        nouvAuteur.add(document)
+        id2aut[document.getAuteur()] = nouvAuteur
+    else:
+        id2aut[document.getAuteur()].add(document)
+
+corpusReddit = corp.Corpus("Corpus Coronavirus Reddit", id2aut, id2doc, len(id2doc), len(id2aut))        
+corpusReddit.save("corpusReddit")
+
+
 # ArxivDocument 
 
 import urllib.request
@@ -42,6 +61,8 @@ dico = xmltodict.parse(data) #xmltodict permet d'obtenir un objet ~JSON
 docs = dico['feed']['entry']
 
 # ajout des document Arxiv dans id2doc
+id2doc = {}
+i = 0   # clé du dictionnaire 
 for d in docs:
     listAuthors=[]
     if isinstance(d['author'], list):
@@ -54,49 +75,20 @@ for d in docs:
     id2doc[i] = documentArxiv
     i += 1
     
-# Corpus 
-    
-import Author as aut
-
+# Création corpus Arxiv
 id2aut = {} 
-
-for doc in id2doc :
+for doc in id2doc : 
     document = id2doc[doc]
-    type(document)
-    #si le doc vient de reddit il n'y a qu'un seul auteur
-    if isinstance(document, redditDoc.RedditDocument):
-        #si l'auteur n'est pas déja dans id2aut ou crée un nouvel auteur
-        if document.getAuteur() not in id2aut:
-            nouvAuteur = aut.Author(document.getAuteur(), 0, {})
+    for nomAuteur in document.getAuteur():
+        if nomAuteur not in id2aut:
+            nouvAuteur = aut.Author(nomAuteur, 0, {})
             nouvAuteur.add(document)
-            id2aut[document.getAuteur()] = nouvAuteur
+            id2aut[nomAuteur] = nouvAuteur
         else:
-            id2aut[document.getAuteur()].add(document)
-    #si le doc vient de arxiv il y a plusieurs auteurs
-    else:
-        for nomAuteur in document.getAuteur():
-            if nomAuteur not in id2aut:
-                nouvAuteur = aut.Author(nomAuteur, 0, {})
-                nouvAuteur.add(document)
-                id2aut[nomAuteur] = nouvAuteur
-            else:
-                id2aut[nomAuteur].add(document)
+            id2aut[nomAuteur].add(document)
  
-import Corpus as corp
-corpus = corp.Corpus("Corpus Coronavirus", id2aut, id2doc, len(id2doc), len(id2aut))
-corpus.save()
-#corpus.load()
-
-print(corpus.search("crisis", corpus.load()))
-concordancier = corpus.concorde("crisis", corpus.load(), 5)
-#------------------- Partie 1 : matrice Documents x Mots ----------------------
-
-# Matrice TF
-freq = corpus.stats(corpus.load())
-print(freq)
-
-vocab = corpus.sortVocab(corpus.load)
-print(vocab)
+corpusArxiv = corp.Corpus("Corpus Coronavirus", id2aut, id2doc, len(id2doc), len(id2aut))
+corpusArxiv.save("corpusArxiv")
 
 import re
 def nettoyer_texte(text):
@@ -108,79 +100,31 @@ def nettoyer_texte(text):
     text = re.sub(r'\d', '', text)
     return text
 
-#récupérer la liste des documents nettoyer
-listDoc = []
-for t in corpus.getDocuments().values():
-    listDoc.append(nettoyer_texte(t.getTexte()))
-
-import pandas as pd
-from scipy.sparse import csr_matrix
-from sklearn.feature_extraction.text import CountVectorizer
-
-vectorizer = CountVectorizer(vocabulary=vocab.keys())
-mat_TF = vectorizer.fit_transform(listDoc)
-result = pd.DataFrame(data=mat_TF.toarray(), columns=vectorizer.get_feature_names_out())
-print(result)
-
-    
-# ajouter a vocab le nombre total de documents contenant chaque mot
-nbLine = mat_TF.shape[0]
-nbCol = mat_TF.shape[1]
-mat_TF_array = mat_TF.toarray()
-for c in range(nbCol):
-    for l in range(nbLine):
-        if mat_TF_array[l][c] != 0:
-            list(vocab.values())[c]['nombre de document'] += 1
-
-
-# Matrice TFxIDF
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-vectorizer = TfidfVectorizer()
-mat_TFxIDF = vectorizer.fit_transform(listDoc)
-print(mat_TFxIDF)
 
+fileReddit = nettoyer_texte(corpusReddit.load("corpusReddit"))
+fileArxiv = nettoyer_texte(corpusArxiv.load("corpusArxiv"))
 
-# --------------- Partie 2 : moteur de recherche --------------------------
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-#cos_similarity_matrix = (mat_TFxIDF * mat_TFxIDF.T).toarray()
-#print(cos_similarity_matrix)
+keywords = input("Entrez quelques mot-clefs : ")
 
-""" similarité entre notre vecteur requête et tous les documents """
+def cosine_sim(text1, text2):
+    tfidf = TfidfVectorizer().fit_transform([text1, text2])
+    return ((tfidf * tfidf.T).A)[0,1]
 
-#demander à l’utilisateur d’entrer quelques mots-clefs
-keywords = input("Entrez quelques mot-clefs : ").split()
+sim_Reddit = cosine_sim(keywords, fileReddit)
+sim_Arxiv = cosine_sim(keywords, fileArxiv)
+print("Score similarité Reddit :", sim_Reddit)
+print("Score similarité Arxiv :", sim_Arxiv)
 
-import numpy as np
-
-scores=[]
-
-for doc in listDoc:
-    doc = doc.split()
-    
-    A=[]; B=[]
-    
-    rvector = keywords + doc
-    for w in rvector:
-        if w in keywords: A.append(1) # create a vector
-        else: A.append(0)
-        if w in doc: B.append(1)
-        else: B.append(0)
-    c=0
-    
-    if sum(B) != 0:
-        # cosine formula 
-        for i in range(len(rvector)):
-                c+= A[i]*B[i]
-        cosine = c / float((sum(A)*sum(B))**0.5)
-    else:
-        cosine = 0
-    scores.append(cosine)
-    
-#trier les scores
-scores.sort(reverse=True)
-top_scores = scores[:10]
-print("Les 10 meilleurs scores :", top_scores)
+corpus_Plus_Sim = ""
+if sim_Reddit > sim_Arxiv:
+    corpus_Plus_Sim = "Reddit"
+else:
+    corpus_Plus_Sim = "Arxiv"
+print("Les mots clés que vous avez entrés ont plus d'importance dans le corpus", corpus_Plus_Sim)
 
 
 
