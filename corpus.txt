@@ -1,0 +1,2682 @@
+Titre du document Reddit: 'Gross negligence': Judge gives go-ahead to COVID-deaths lawsuit against Ontario
+Auteur : Fundshat
+Resumé : 
+Date : 2023-01-10 00:49:00
+Nombres de commentaires : 1
+Titre du document Reddit: 'Kraken' subvariant shows COVID continuing to evolve, vaccine equity needed: experts
+Auteur : Majnum
+Resumé : 
+Date : 2023-01-08 23:35:43
+Nombres de commentaires : 1
+Titre du document Reddit: 'Monster' variant of Corona spread in 29 countries including America, India, fastest infection, WHO warns
+Auteur : Realistic-Plant3957
+Resumé : 
+Date : 2023-01-05 17:15:50
+Nombres de commentaires : 1
+Titre du document Reddit: 21 cases of XBB.1.5. COVID subvariant confirmed in Canada
+Auteur : No-Drawing-6975
+Resumé : 
+Date : 2023-01-05 11:54:26
+Nombres de commentaires : 1
+Titre du document Reddit: 90% of people in China province infected with Covid, says local health official
+Auteur : Realistic-Plant3957
+Resumé : 
+Date : 2023-01-09 09:09:20
+Nombres de commentaires : 1
+Titre du document Arxiv : A Big Data Based Framework for Executing Complex Query Over COVID-19
+  Datasets (COVID-QF)
+Auteur : ['Eman A. Khashan', 'Ali I. Eldesouky', 'M. Fadel', 'Sally M. Elghamrawy']
+Texte : COVID-19's rapid global spread has driven innovative tools for Big Data
+Analytics. These have guided organizations in all fields of the health industry
+to track and minimized the effects of virus. Researchers are required to detect
+coronaviruses through artificial intelligence, machine learning, and natural
+language processing, and to gain a complete understanding of the disease.
+COVID-19 takes place in different countries in the world, with which only big
+data application and the work of NOSQL databases are suitable. There is a great
+number of platforms used for processing NOSQL Databases model like: Spark, H2O
+and Hadoop HDFS/MapReduce, which are proper to control and manage the enormous
+amount of data. Many challenges faced by large applications programmers,
+especially those that work on the COVID-19 databases through hybrid data models
+through different APIs and query. In this context, this paper proposes a
+storage framework to handle both SQL and NOSQL databases named (COVID-QF) for
+COVID-19 datasets in order to treat and handle the problems caused by virus
+spreading worldwide by reducing treatment times. In case of NoSQL database,
+COVID-QF uses Hadoop HDFS/Map Reduce and Apache Spark. The COVID-QF consists of
+three Layers: data collection layer, storage layer, and query Processing layer.
+The data is collected in the data collection layer. The storage layer divides
+data into collection of data-saving and processing blocks, and it connects the
+Connector of the spark with different databases engine to reduce time of saving
+and retrieving. While the Processing layer executes the request query and sends
+results. The proposed framework used three datasets increased for time for
+COVID-19 data (COVID-19-Merging, COVID-19-inside-Hubei and COVID-19-ex-Hubei)
+to test experiments of this study. The results obtained insure the superiority
+of the COVID-QF framework.
+Date : 2020-05-25T03:13:00Z
+Titre du document Arxiv : A High-Resolution Chest CT-Scan Image Dataset for COVID-19 Diagnosis and
+  Differentiation
+Auteur : ['Iraj Abedi', 'Mahsa Vali', 'Bentolhoda Otroshi Shahreza', 'Hamidreza Bolhasani']
+Texte : During the COVID-19 pandemic, computed tomography (CT) is a good way to
+diagnose COVID-19 patients. HRCT (High-Resolution Computed Tomography) is a
+form of computed tomography that uses advanced methods to improve image
+resolution. Publicly accessible COVID-19 CT image datasets are very difficult
+to come by due to privacy concerns, which impedes the study and development of
+AI-powered COVID-19 diagnostic algorithms based on CT images. To address this
+problem, we have introduced HRCTv1-COVID-19, a new COVID-19 high resolution
+chest CT Scan image dataset that includes not only COVID-19 cases of Ground
+Glass Opacity (GGO), Crazy Paving, and Air Space Consolidation, but also CT
+images of cases with negative COVID-19. The HRCTv1-COVID-19 dataset, which
+includes slice-level, and patient-level labels, has the potential to aid
+COVID-19 research, especially for diagnosis and differentiation using
+artificial intelligence algorithms, machine learning and deep learning methods.
+This dataset is accessible through web at: http://databiox.com and includes
+181,106 chest HRCT images from 395 patients with four labels: GGO, Crazy
+Paving, Air Space Consolidation and Negative.
+  Keywords- Dataset, COVID-19, CT-Scan, Computed Tomography, Medical Imaging,
+Chest Image.
+Date : 2022-05-06T12:49:18Z
+Titre du document Arxiv : A machine learning analysis of the relationship between some underlying
+  medical conditions and COVID-19 susceptibility
+Auteur : ['Mostafa Rezapour', 'Colin A. Varady']
+Texte : For the past couple years, the Coronavirus, commonly known as COVID-19, has
+significantly affected the daily lives of all citizens residing in the United
+States by imposing several, fatal health risks that cannot go unnoticed. In
+response to the growing fear and danger COVID-19 inflicts upon societies in the
+USA, several vaccines and boosters have been created as a permanent remedy for
+individuals to take advantage of. In this paper, we investigate the
+relationship between the COVID-19 vaccines and boosters and the total case
+count for the Coronavirus across multiple states in the USA. Additionally, this
+paper discusses the relationship between several, selected underlying health
+conditions with COVID-19. To discuss these relationships effectively, this
+paper will utilize statistical tests and machine learning methods for analysis
+and discussion purposes. Furthermore, this paper reflects upon conclusions made
+about the relationship between educational attainment, race, and COVID-19 and
+the possible connections that can be established with underlying health
+conditions, vaccination rates, and COVID-19 total case and death counts.
+Date : 2021-12-24T01:36:57Z
+Titre du document Reddit: A mucosal vaccine could be a COVID-19 game-changer. So why doesn’t Canada have one?
+Auteur : tonic613
+Resumé : 
+Date : 2023-01-07 23:54:49
+Nombres de commentaires : 1
+Titre du document Arxiv : A novel unsupervised covid lung lesion segmentation based on the lung
+  tissue identification
+Auteur : ['Faeze Gholamian Khah', 'Samaneh Mostafapour', 'Seyedjafar Shojaerazavi', 'Nouraddin Abdi-Goushbolagh', 'Hossein Arabi']
+Texte : This study aimed to evaluate the performance of a novel unsupervised deep
+learning-based framework for automated infections lesion segmentation from CT
+images of Covid patients. In the first step, two residual networks were
+independently trained to identify the lung tissue for normal and Covid patients
+in a supervised manner. These two models, referred to as DL-Covid and DL-Norm
+for Covid-19 and normal patients, respectively, generate the voxel-wise
+probability maps for lung tissue identification. To detect Covid lesions, the
+CT image of the Covid patient is processed by the DL-Covid and DL-Norm models
+to obtain two lung probability maps. Since the DL-Norm model is not familiar
+with Covid infections within the lung, this model would assign lower
+probabilities to the lesions than the DL-Covid. Hence, the probability maps of
+the Covid infections could be generated through the subtraction of the two lung
+probability maps obtained from the DL-Covid and DL-Norm models. Manual lesion
+segmentation of 50 Covid-19 CT images was used to assess the accuracy of the
+unsupervised lesion segmentation approach. The Dice coefficients of 0.985 and
+0.978 were achieved for the lung segmentation of normal and Covid patients in
+the external validation dataset, respectively. Quantitative results of
+infection segmentation by the proposed unsupervised method showed the Dice
+coefficient and Jaccard index of 0.67 and 0.60, respectively. Quantitative
+evaluation of the proposed unsupervised approach for Covid-19 infectious lesion
+segmentation showed relatively satisfactory results. Since this framework does
+not require any annotated dataset, it could be used to generate very large
+training samples for the supervised machine learning algorithms dedicated to
+noisy and/or weakly annotated datasets.
+Date : 2022-02-24T15:33:21Z
+Titre du document Arxiv : A review of Deep learning Techniques for COVID-19 identification on
+  Chest CT images
+Auteur : ['Briskline Kiruba S', 'Petchiammal A', 'D. Murugan']
+Texte : The current COVID-19 pandemic is a serious threat to humanity that directly
+affects the lungs. Automatic identification of COVID-19 is a challenge for
+health care officials. The standard gold method for diagnosing COVID-19 is
+Reverse Transcription Polymerase Chain Reaction (RT-PCR) to collect swabs from
+affected people. Some limitations encountered while collecting swabs are
+related to accuracy and longtime duration. Chest CT (Computed Tomography) is
+another test method that helps healthcare providers quickly identify the
+infected lung areas. It was used as a supporting tool for identifying COVID-19
+in an earlier stage. With the help of deep learning, the CT imaging
+characteristics of COVID-19. Researchers have proven it to be highly effective
+for COVID-19 CT image classification. In this study, we review the recent deep
+learning techniques that can use to detect the COVID-19 disease. Relevant
+studies were collected by various databases such as Web of Science, Google
+Scholar, and PubMed. Finally, we compare the results of different deep learning
+models, and CT image analysis is discussed.
+Date : 2022-07-29T18:27:20Z
+Titre du document Arxiv : Adaptive Feature Selection Guided Deep Forest for COVID-19
+  Classification with Chest CT
+Auteur : ['Liang Sun', 'Zhanhao Mo', 'Fuhua Yan', 'Liming Xia', 'Fei Shan', 'Zhongxiang Ding', 'Wei Shao', 'Feng Shi', 'Huan Yuan', 'Huiting Jiang', 'Dijia Wu', 'Ying Wei', 'Yaozong Gao', 'Wanchun Gao', 'He Sui', 'Daoqiang Zhang', 'Dinggang Shen']
+Texte : Chest computed tomography (CT) becomes an effective tool to assist the
+diagnosis of coronavirus disease-19 (COVID-19). Due to the outbreak of COVID-19
+worldwide, using the computed-aided diagnosis technique for COVID-19
+classification based on CT images could largely alleviate the burden of
+clinicians. In this paper, we propose an Adaptive Feature Selection guided Deep
+Forest (AFS-DF) for COVID-19 classification based on chest CT images.
+Specifically, we first extract location-specific features from CT images. Then,
+in order to capture the high-level representation of these features with the
+relatively small-scale data, we leverage a deep forest model to learn
+high-level representation of the features. Moreover, we propose a feature
+selection method based on the trained deep forest model to reduce the
+redundancy of features, where the feature selection could be adaptively
+incorporated with the COVID-19 classification model. We evaluated our proposed
+AFS-DF on COVID-19 dataset with 1495 patients of COVID-19 and 1027 patients of
+community acquired pneumonia (CAP). The accuracy (ACC), sensitivity (SEN),
+specificity (SPE) and AUC achieved by our method are 91.79%, 93.05%, 89.95% and
+96.35%, respectively. Experimental results on the COVID-19 dataset suggest that
+the proposed AFS-DF achieves superior performance in COVID-19 vs. CAP
+classification, compared with 4 widely used machine learning methods.
+Date : 2020-05-07T06:00:02Z
+Titre du document Reddit: All around the world, covid surveillance is faltering
+Auteur : evildad53
+Resumé : 
+Date : 2023-01-09 17:28:18
+Nombres de commentaires : 1
+Titre du document Arxiv : An Exploratory Characterization of Bugs in COVID-19 Software Projects
+Auteur : ['Akond Rahman', 'Effat Farhana']
+Texte : Context: The dire consequences of the COVID-19 pandemic has influenced
+development of COVID-19 software i.e., software used for analysis and
+mitigation of COVID-19. Bugs in COVID-19 software can be consequential, as
+COVID-19 software projects can impact public health policy and user data
+privacy. Objective: The goal of this paper is to help practitioners and
+researchers improve the quality of COVID-19 software through an empirical study
+of open source software projects related to COVID-19. Methodology: We use 129
+open source COVID-19 software projects hosted on GitHub to conduct our
+empirical study. Next, we apply qualitative analysis on 550 bug reports from
+the collected projects to identify bug categories. Findings: We identify 8 bug
+categories, which include data bugs i.e., bugs that occur during mining and
+storage of COVID-19 data. The identified bug categories appear for 7 categories
+of software projects including (i) projects that use statistical modeling to
+perform predictions related to COVID-19, and (ii) medical equipment software
+that are used to design and implement medical equipment, such as ventilators.
+Conclusion: Based on our findings, we advocate for robust statistical model
+construction through better synergies between data science practitioners and
+public health experts. Existence of security bugs in user tracking software
+necessitates development of tools that will detect data privacy violations and
+security weaknesses.
+Date : 2020-05-31T19:11:25Z
+Titre du document Reddit: Anxious lunar new year period in China as millions travel while Covid spreads
+Auteur : misana123
+Resumé : 
+Date : 2023-01-06 21:28:11
+Nombres de commentaires : 1
+Titre du document Arxiv : Artificial Intelligence Forecasting of Covid-19 in China
+Auteur : ['Zixin Hu', 'Qiyang Ge', 'Shudi Li', 'Li Jin', 'Momiao Xiong']
+Texte : BACKGROUND An alternative to epidemiological models for transmission dynamics
+of Covid-19 in China, we propose the artificial intelligence (AI)-inspired
+methods for real-time forecasting of Covid-19 to estimate the size, lengths and
+ending time of Covid-19 across China. METHODS We developed a modified stacked
+auto-encoder for modeling the transmission dynamics of the epidemics. We
+applied this model to real-time forecasting the confirmed cases of Covid-19
+across China. The data were collected from January 11 to February 27, 2020 by
+WHO. We used the latent variables in the auto-encoder and clustering algorithms
+to group the provinces/cities for investigating the transmission structure.
+RESULTS We forecasted curves of cumulative confirmed cases of Covid-19 across
+China from Jan 20, 2020 to April 20, 2020. Using the multiple-step forecasting,
+the estimated average errors of 6-step, 7-step, 8-step, 9-step and 10-step
+forecasting were 1.64%, 2.27%, 2.14%, 2.08%, 0.73%, respectively. We predicted
+that the time points of the provinces/cities entering the plateau of the
+forecasted transmission dynamic curves varied, ranging from Jan 21 to April 19,
+2020. The 34 provinces/cities were grouped into 9 clusters. CONCLUSIONS The
+accuracy of the AI-based methods for forecasting the trajectory of Covid-19 was
+high. We predicted that the epidemics of Covid-19 will be over by the middle of
+April. If the data are reliable and there are no second transmissions, we can
+accurately forecast the transmission dynamics of the Covid-19 across the
+provinces/cities in China. The AI-inspired methods are a powerful tool for
+helping public health planning and policymaking.
+Date : 2020-02-17T18:14:47Z
+Titre du document Reddit: As COVID surges in China, US begins testing more travelers
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 20:15:30
+Nombres de commentaires : 1
+Titre du document Reddit: As COVID-hit China reopens to the world, countries put up travel barriers
+Auteur : lukemendess
+Resumé : 
+Date : 2023-01-06 07:01:36
+Nombres de commentaires : 1
+Titre du document Reddit: As respiratory diseases rise, EPA tightens air quality standards
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 20:10:08
+Nombres de commentaires : 1
+Titre du document Arxiv : Assess the impacts of human mobility change on COVID-19 dynamics in
+  Arizona, U.S.: a modeling study incorporating Google Community Mobility
+  Reports
+Auteur : ['Nao Yamamoto', 'Haiyan Wang']
+Texte : In June 2020, Arizona, U.S., emerged as one of the world's worst coronavirus
+disease 2019(COVID-19) spots after the stay-at-home order was lifted in the
+middle of May. However, with the decisions to reimpose restrictions, the number
+of COVID-19 cases has been declining, and Arizona is considered to be a good
+model in slowing the epidemic. In this paper, we aimed to examine the COVID-19
+situation in Arizona and assess the impact of human mobility change. We
+constructed the mobility integrated metapopulation
+susceptible-infectious-removed model and fitted to publicly available datasets
+on COVID-19 cases and mobility changes in Arizona. Our simulations showed that
+by reducing human mobility, the peak time was delayed, and the final size of
+the epidemic was decreased in all three regions. Our analysis suggests that
+rapid and effective decision making is crucial to control human mobility and,
+therefore, COVID-19 epidemics. Until a vaccine is available, reimplementations
+of mobility restrictions in response to the increase of new COVID-19 cases
+might need to be considered in Arizona and beyond.
+Date : 2020-09-04T23:30:27Z
+Titre du document Reddit: Australian population: Deaths 17pc above historical average amid last year’s Omicron wave
+Auteur : spiky-protein
+Resumé : 
+Date : 2023-01-05 23:51:41
+Nombres de commentaires : 1
+Titre du document Arxiv : Automatic classification between COVID-19 pneumonia, non-COVID-19
+  pneumonia, and the healthy on chest X-ray image: combination of data
+  augmentation methods
+Auteur : ['Mizuho Nishio', 'Shunjiro Noguchi', 'Hidetoshi Matsuo', 'Takamichi Murakami']
+Texte : Purpose: This study aimed to develop and validate computer-aided diagnosis
+(CXDx) system for classification between COVID-19 pneumonia, non-COVID-19
+pneumonia, and the healthy on chest X-ray (CXR) images.
+  Materials and Methods: From two public datasets, 1248 CXR images were
+obtained, which included 215, 533, and 500 CXR images of COVID-19 pneumonia
+patients, non-COVID-19 pneumonia patients, and the healthy samples. The
+proposed CADx system utilized VGG16 as a pre-trained model and combination of
+conventional method and mixup as data augmentation methods. Other types of
+pre-trained models were compared with the VGG16-based model. Single type or no
+data augmentation methods were also evaluated. Splitting of
+training/validation/test sets was used when building and evaluating the CADx
+system. Three-category accuracy was evaluated for test set with 125 CXR images.
+  Results: The three-category accuracy of the CAD system was 83.6% between
+COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy. Sensitivity for
+COVID-19 pneumonia was more than 90%. The combination of conventional method
+and mixup was more useful than single type or no data augmentation method.
+  Conclusion: This study was able to create an accurate CADx system for the
+3-category classification. Source code of our CADx system is available as open
+source for COVID-19 research.
+Date : 2020-06-01T05:34:53Z
+Titre du document Reddit: Autopsies of those who died with COVID-19 find virus in the brain, multiple organs: study
+Auteur : CTVNEWS
+Resumé : 
+Date : 2023-01-05 19:03:23
+Nombres de commentaires : 1
+Titre du document Reddit: Beds run out at Beijing hospital as COVID-19 spreads
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 13:15:01
+Nombres de commentaires : 1
+Titre du document Reddit: Bodies Pile Up in China as Covid Surge Overwhelms Crematoriums
+Auteur : grab-n-g0
+Resumé : 
+Date : 2023-01-04 19:09:05
+Nombres de commentaires : 1
+Titre du document Arxiv : Boosting Automatic COVID-19 Detection Performance with Self-Supervised
+  Learning and Batch Knowledge Ensembling
+Auteur : ['Guang Li', 'Ren Togo', 'Takahiro Ogawa', 'Miki Haseyama']
+Texte : Background and objective: COVID-19 and its variants have caused significant
+disruptions in over 200 countries and regions worldwide, affecting the health
+and lives of billions of people. Detecting COVID-19 from chest X-Ray (CXR)
+images has become one of the fastest and easiest methods for detecting COVID-19
+since the common occurrence of radiological pneumonia findings in COVID-19
+patients. We present a novel high-accuracy COVID-19 detection method that uses
+CXR images. Methods: Our method consists of two phases. One is self-supervised
+learning-based pertaining; the other is batch knowledge ensembling-based
+fine-tuning. Self-supervised learning-based pretraining can learn distinguished
+representations from CXR images without manually annotated labels. On the other
+hand, batch knowledge ensembling-based fine-tuning can utilize category
+knowledge of images in a batch according to their visual feature similarities
+to improve detection performance. Unlike our previous implementation, we
+introduce batch knowledge ensembling into the fine-tuning phase, reducing the
+memory used in self-supervised learning and improving COVID-19 detection
+accuracy. Results: On two public COVID-19 CXR datasets, namely, a large dataset
+and an unbalanced dataset, our method exhibited promising COVID-19 detection
+performance. Our method maintains high detection accuracy even when annotated
+CXR training images are reduced significantly (e.g., using only 10% of the
+original dataset). In addition, our method is insensitive to changes in
+hyperparameters. Conclusions: The proposed method outperforms other
+state-of-the-art COVID-19 detection methods in different settings. Our method
+can reduce the workloads of healthcare providers and radiologists.
+Date : 2022-12-19T07:39:26Z
+Titre du document Reddit: CDC has tested wastewater from aircraft amid concerns over Covid-19 surge in China
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 04:45:31
+Nombres de commentaires : 1
+Titre du document Reddit: CDC has tested wastewater from aircraft amid concerns over Covid-19 surge in China | CNN
+Auteur : Realistic-Plant3957
+Resumé : 
+Date : 2023-01-06 17:14:36
+Nombres de commentaires : 1
+Titre du document Reddit: CDC Head Will Roll Out Sweeping Changes to Handle Emergencies
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 22:02:18
+Nombres de commentaires : 1
+Titre du document Arxiv : Change point detection for COVID-19 excess deaths in Belgium
+Auteur : ['Han Lin Shang', 'Ruofan Xu']
+Texte : Emerging at the end of 2019, COVID-19 has become a public health threat to
+people worldwide. Apart from the deaths who tested positive for COVID-19, many
+others have died from causes indirectly related to COVID-19. Therefore, the
+COVID-19 confirmed deaths underestimate the influence of the pandemic on the
+society; instead, the measure of `excess deaths' is a more objective and
+comparable way to assess the scale of the epidemic and formulate lessons. One
+common practical issue in analyzing the impact of COVID-19 is to determine the
+`pre-COVID-19' period and the `post-COVID-19' period. We apply a change point
+detection method to identify any change points using the excess deaths in
+Belgium.
+Date : 2020-11-16T22:13:52Z
+Titre du document Reddit: China Covid: Celebrity deaths spark fears over death toll
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 14:02:46
+Nombres de commentaires : 1
+Titre du document Reddit: China Covid: Young people self-infect as fears for elderly grow
+Auteur : brooklynlad
+Resumé : 
+Date : 2023-01-06 20:55:21
+Nombres de commentaires : 1
+Titre du document Reddit: China halts visas for Japan, South Korea in COVID-19 spat
+Auteur : No-Drawing-6975
+Resumé : 
+Date : 2023-01-10 15:47:29
+Nombres de commentaires : 1
+Titre du document Reddit: China reopens borders as lunar new year travel kicks off amid Covid surge
+Auteur : misana123
+Resumé : 
+Date : 2023-01-08 10:40:02
+Nombres de commentaires : 1
+Titre du document Reddit: China reopens borders in final farewell to zero-COVID
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 13:49:32
+Nombres de commentaires : 1
+Titre du document Reddit: China reports two COVID deaths for Jan. 7
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 13:53:16
+Nombres de commentaires : 1
+Titre du document Reddit: China says COVID wave has peaked in many areas
+Auteur : ChickenTeriyakiBoy1
+Resumé : 
+Date : 2023-01-10 06:41:20
+Nombres de commentaires : 1
+Titre du document Reddit: China says talks to include Paxlovid in its insurance drug list fail
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 13:51:06
+Nombres de commentaires : 1
+Titre du document Reddit: China seeks to minimize COVID-19 risk during travel rush
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 12:40:44
+Nombres de commentaires : 1
+Titre du document Reddit: China suspends visas for South Koreans in virus retaliation
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 14:31:59
+Nombres de commentaires : 1
+Titre du document Reddit: China's big cities are starting to look past Covid, while rural areas brace for infections
+Auteur : mynameismy111
+Resumé : 
+Date : 2023-01-06 11:09:57
+Nombres de commentaires : 1
+Titre du document Reddit: China’s Covid Surge Threatens Villages as Lunar New Year Approaches
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 12:50:36
+Nombres de commentaires : 1
+Titre du document Reddit: China’s Covid wave threatens another snarl of U.S. medical supply chain
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 19:53:45
+Nombres de commentaires : 1
+Titre du document Reddit: Chinese health authority adjusts COVID prevention and control measures
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 12:35:43
+Nombres de commentaires : 1
+Titre du document Arxiv : Citation premium: a much higher proportion of COVID-19 related
+  publications become highly cited papers
+Auteur : ['Weishu Liu', 'Haifeng Wang']
+Texte : With the global spread of the COVID-19 pandemic, scientists from various
+disciplines responded quickly to this historical public health emergency. The
+sudden boom of COVID-19 related papers in a short period of time may bring
+unexpected influence to some commonly used bibliometric indicators. By a
+large-scale investigation using Science Citation Index Expanded and Social
+Sciences Citation Index, this study confirms the citation premium of COVID-19
+related papers empirically. More than 8% of COVID-19 related papers published
+during 2020 and 2021 were selected as Essential Science Indicators highly cited
+papers, which was much higher than the set global benchmark value of 1%. The
+citation premium of COVID-19 related papers for different Web of Science
+categories/countries/journal impact factor quartiles were also demonstrated.
+The distortions of COVID-19 related papers' citation premium to some
+bibliometric indicators were discussed at the end of this brief communication.
+Date : 2022-08-25T10:44:03Z
+Titre du document Arxiv : Classification Aware Neural Topic Model and its Application on a New
+  COVID-19 Disinformation Corpus
+Auteur : ['Xingyi Song', 'Johann Petrak', 'Ye Jiang', 'Iknoor Singh', 'Diana Maynard', 'Kalina Bontcheva']
+Texte : The explosion of disinformation accompanying the COVID-19 pandemic has
+overloaded fact-checkers and media worldwide, and brought a new major challenge
+to government responses worldwide. Not only is disinformation creating
+confusion about medical science amongst citizens, but it is also amplifying
+distrust in policy makers and governments. To help tackle this, we developed
+computational methods to categorise COVID-19 disinformation. The COVID-19
+disinformation categories could be used for a) focusing fact-checking efforts
+on the most damaging kinds of COVID-19 disinformation; b) guiding policy makers
+who are trying to deliver effective public health messages and counter
+effectively COVID-19 disinformation. This paper presents: 1) a corpus
+containing what is currently the largest available set of manually annotated
+COVID-19 disinformation categories; 2) a classification-aware neural topic
+model (CANTM) designed for COVID-19 disinformation category classification and
+topic discovery; 3) an extensive analysis of COVID-19 disinformation categories
+with respect to time, volume, false type, media type and origin source.
+Date : 2020-06-05T10:32:18Z
+Titre du document Arxiv : Classification of COVID-19 Patients with their Severity Level from Chest
+  CT Scans using Transfer Learning
+Auteur : ['Mansi Gupta', 'Aman Swaraj', 'Karan Verma']
+Texte : Background and Objective: During pandemics, the use of artificial
+intelligence (AI) approaches combined with biomedical science play a
+significant role in reducing the burden on the healthcare systems and
+physicians. The rapid increment in cases of COVID-19 has led to an increase in
+demand for hospital beds and other medical equipment. However, since medical
+facilities are limited, it is recommended to diagnose patients as per the
+severity of the infection. Keeping this in mind, we share our research in
+detecting COVID-19 as well as assessing its severity using chest-CT scans and
+Deep Learning pre-trained models. Dataset: We have collected a total of 1966 CT
+Scan images for three different class labels, namely, Non-COVID, Severe COVID,
+and Non-Severe COVID, out of which 714 CT images belong to the Non-COVID
+category, 713 CT images are for Non-Severe COVID category and 539 CT images are
+of Severe COVID category. Methods: All of the images are initially
+pre-processed using the Contrast Limited Histogram Equalization (CLAHE)
+approach. The pre-processed images are then fed into the VGG-16 network for
+extracting features. Finally, the retrieved characteristics are categorized and
+the accuracy is evaluated using a support vector machine (SVM) with 10-fold
+cross-validation (CV). Result and Conclusion: In our study, we have combined
+well-known strategies for pre-processing, feature extraction, and
+classification which brings us to a remarkable success rate of disease and its
+severity recognition with an accuracy of 96.05% (97.7% for Non-Severe COVID-19
+images and 93% for Severe COVID-19 images). Our model can therefore help
+radiologists detect COVID-19 and the extent of its severity.
+Date : 2022-05-27T06:22:09Z
+Titre du document Arxiv : Clustering COVID-19 Lung Scans
+Auteur : ['Jacob Householder', 'Andrew Householder', 'John Paul Gomez-Reed', 'Fredrick Park', 'Shuai Zhang']
+Texte : With the ongoing COVID-19 pandemic, understanding the characteristics of the
+virus has become an important and challenging task in the scientific community.
+While tests do exist for COVID-19, the goal of our research is to explore other
+methods of identifying infected individuals. Our group applied unsupervised
+clustering techniques to explore a dataset of lungscans of COVID-19 infected,
+Viral Pneumonia infected, and healthy individuals. This is an important area to
+explore as COVID-19 is a novel disease that is currently being studied in
+detail. Our methodology explores the potential that unsupervised clustering
+algorithms have to reveal important hidden differences between COVID-19 and
+other respiratory illnesses. Our experiments use: Principal Component Analysis
+(PCA), K-Means++ (KM++) and the recently developed Robust Continuous Clustering
+algorithm (RCC). We evaluate the performance of KM++ and RCC in clustering
+COVID-19 lung scans using the Adjusted Mutual Information (AMI) score.
+Date : 2020-09-05T00:21:13Z
+Titre du document Arxiv : CML-COVID: A Large-Scale COVID-19 Twitter Dataset with Latent Topics,
+  Sentiment and Location Information
+Auteur : ['Hassan Dashtian', 'Dhiraj Murthy']
+Texte : As a platform, Twitter has been a significant public space for discussion
+related to the COVID-19 pandemic. Public social media platforms such as Twitter
+represent important sites of engagement regarding the pandemic and these data
+can be used by research teams for social, health, and other research.
+Understanding public opinion about COVID-19 and how information diffuses in
+social media is important for governments and research institutions. Twitter is
+a ubiquitous public platform and, as such, has tremendous utility for
+understanding public perceptions, behavior, and attitudes related to COVID-19.
+In this research, we present CML-COVID, a COVID-19 Twitter data set of
+19,298,967 million tweets from 5,977,653 unique individuals and summarize some
+of the attributes of these data. These tweets were collected between March 2020
+and July 2020 using the query terms coronavirus, covid and mask related to
+COVID-19. We use topic modeling, sentiment analysis, and descriptive statistics
+to describe the tweets related to COVID-19 we collected and the geographical
+location of tweets, where available. We provide information on how to access
+our tweet dataset (archived using twarc).
+Date : 2021-01-28T18:59:10Z
+Titre du document Arxiv : CoAID: COVID-19 Healthcare Misinformation Dataset
+Auteur : ['Limeng Cui', 'Dongwon Lee']
+Texte : As the COVID-19 virus quickly spreads around the world, unfortunately,
+misinformation related to COVID-19 also gets created and spreads like wild
+fire. Such misinformation has caused confusion among people, disruptions in
+society, and even deadly consequences in health problems. To be able to
+understand, detect, and mitigate such COVID-19 misinformation, therefore, has
+not only deep intellectual values but also huge societal impacts. To help
+researchers combat COVID-19 health misinformation, therefore, we present CoAID
+(Covid-19 heAlthcare mIsinformation Dataset), with diverse COVID-19 healthcare
+misinformation, including fake news on websites and social platforms, along
+with users' social engagement about such news. CoAID includes 4,251 news,
+296,000 related user engagements, 926 social platform posts about COVID-19, and
+ground truth labels. The dataset is available at:
+https://github.com/cuilimeng/CoAID.
+Date : 2020-05-22T19:08:14Z
+Titre du document Arxiv : COFFEE: COVID-19 Forecasts using Fast Evaluations and Estimation
+Auteur : ['Lauren Castro', 'Geoffrey Fairchild', 'Isaac Michaud', 'Dave Osthus']
+Texte : This document details the methodology of the Los Alamos National Laboratory
+COVID-19 forecasting model, COFFEE (COVID-19 Forecasts using Fast Evaluations
+and Estimation).
+Date : 2021-10-04T16:35:13Z
+Titre du document Arxiv : Collaboration in the Time of COVID: A Scientometric Analysis of
+  Multidisciplinary SARS-CoV-2 Research
+Auteur : ['Eoghan Cunningham', 'Barry Smyth', 'Derek Greene']
+Texte : The novel coronavirus SARS-CoV-2 and the COVID-19 illness it causes have
+inspired unprecedented levels of multidisciplinary research in an effort to
+address a generational public health challenge. In this work we conduct a
+scientometric analysis of COVID-19 research, paying particular attention to the
+nature of collaboration that this pandemic has fostered among different
+disciplines. Increased multidisciplinary collaboration has been shown to
+produce greater scientific impact, albeit with higher co-ordination costs. As
+such, we consider a collection of over 166,000 COVID-19-related articles to
+assess the scale and diversity of collaboration in COVID-19 research, which we
+compare to non-COVID-19 controls before and during the pandemic. We show that
+COVID-19 research teams are not only significantly smaller than their
+non-COVID-19 counterparts, but they are also more diverse. Furthermore, we find
+that COVID-19 research has increased the multidisciplinarity of authors across
+most scientific fields of study, indicating that COVID-19 has helped to remove
+some of the barriers that usually exist between disparate disciplines. Finally,
+we highlight a number of interesting areas of multidisciplinary research during
+COVID-19, and propose methodologies for visualising the nature of
+multidisciplinary collaboration, which may have application beyond this
+pandemic.
+Date : 2021-08-30T16:43:33Z
+Titre du document Arxiv : Comprehensively identifying Long Covid articles with human-in-the-loop
+  machine learning
+Auteur : ['Robert Leaman', 'Rezarta Islamaj', 'Alexis Allot', 'Qingyu Chen', 'W. John Wilbur', 'Zhiyong Lu']
+Texte : A significant percentage of COVID-19 survivors experience ongoing
+multisystemic symptoms that often affect daily living, a condition known as
+Long Covid or post-acute-sequelae of SARS-CoV-2 infection. However, identifying
+scientific articles relevant to Long Covid is challenging since there is no
+standardized or consensus terminology. We developed an iterative
+human-in-the-loop machine learning framework combining data programming with
+active learning into a robust ensemble model, demonstrating higher specificity
+and considerably higher sensitivity than other methods. Analysis of the Long
+Covid collection shows that (1) most Long Covid articles do not refer to Long
+Covid by any name (2) when the condition is named, the name used most
+frequently in the literature is Long Covid, and (3) Long Covid is associated
+with disorders in a wide variety of body systems. The Long Covid collection is
+updated weekly and is searchable online at the LitCovid portal:
+https://www.ncbi.nlm.nih.gov/research/coronavirus/docsum?filters=e_condition.LongCovid
+Date : 2022-09-16T18:36:37Z
+Titre du document Reddit: Coronavirus FAQ: How do I avoid catching COVID while flying in 2023?
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 00:14:31
+Nombres de commentaires : 1
+Titre du document Reddit: Coronavirus: why do China’s ‘mild’ Covid symptoms feel so unbearable?
+Auteur : Realistic-Plant3957
+Resumé : 
+Date : 2023-01-08 14:51:34
+Nombres de commentaires : 1
+Titre du document Arxiv : COV19IR : COVID-19 Domain Literature Information Retrieval
+Auteur : ['Arusarka Bose', 'Zili Zhou', 'Guandong Xu']
+Texte : Increasing number of COVID-19 research literatures cause new challenges in
+effective literature screening and COVID-19 domain knowledge aware Information
+Retrieval. To tackle the challenges, we demonstrate two tasks along
+withsolutions, COVID-19 literature retrieval, and question answering. COVID-19
+literature retrieval task screens matching COVID-19 literature documents for
+textual user query, and COVID-19 question answering task predicts proper text
+fragments from text corpus as the answer of specific COVID-19 related
+questions. Based on transformer neural network, we provided solutions to
+implement the tasks on CORD-19 dataset, we display some examples to show the
+effectiveness of our proposed solutions.
+Date : 2022-11-08T05:12:37Z
+Titre du document Reddit: Covid Variant Likely Resistant to AstraZeneca Antibody Drug, FDA Says
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 22:43:35
+Nombres de commentaires : 1
+Titre du document Arxiv : Covid-19 Analysis Using Tensor Methods
+Auteur : ['Dipak Dulal', 'Ramin Goudarzi Karim', 'Carmeliza Navasca']
+Texte : In this paper, we use tensor models to analyze Covid-19 pandemic data. First,
+we use tensor models, canonical polyadic and higher-order Tucker
+decompositions, to extract patterns over multiple modes. Second, we implement a
+tensor completion algorithm using canonical polyadic tensor decomposition to
+predict spatiotemporal data from multiple spatial sources and to identify
+Covid-19 hotspots. We apply a regularized iterative tensor completion technique
+with a practical regularization parameter estimator to predict the spread of
+Covid-19 cases and to find and identify hotspots. Our method can predict weekly
+and quarterly Covid-19 spreads with high accuracy. Third, we analyze Covid-19
+data in the US using a novel sampling method for alternating least-squares.
+Moreover, we compare the algorithms with standard tensor decompositions in
+terms of their interpretability, visualization and cost analysis. Finally, we
+demonstrate the efficacy of the methods by applying the techniques to New
+Jersey's Covid-19 data.
+Date : 2022-12-30T06:08:00Z
+Titre du document Arxiv : COVID-19 and Influenza Joint Forecasts Using Internet Search Information
+  in the United States
+Auteur : ['Simin Ma', 'Shaoyang Ning', 'Shihao Yang']
+Texte : As COVID-19 pandemic progresses, severe flu seasons may happen alongside an
+increase in cases in cases and death of COVID-19, causing severe burdens on
+health care resources and public safety. A consequence of a twindemic may be a
+mixture of two different infections in the same person at the same time,
+"flurona". Admist the raising trend of "flurona", forecasting both influenza
+outbreaks and COVID-19 waves in a timely manner is more urgent than ever, as
+accurate joint real-time tracking of the twindemic aids health organizations
+and policymakers in adequate preparation and decision making. Under the current
+pandemic, state-of-art influenza and COVID-19 forecasting models carry valuable
+domain information but face shortcomings under current complex disease
+dynamics, such as similarities in symptoms and public healthcare seeking
+patterns of the two diseases. Inspired by the inner-connection between
+influenza and COVID-19 activities, we propose ARGOX-Joint-Ensemble which allows
+us to combine historical influenza and COVID-19 disease forecasting models to a
+new ensemble framework that handles scenarios where flu and COVID co-exist. Our
+framework is able to emphasize learning from COVID-related or influenza
+signals, through a winner-takes-all ensemble fashion. Moreover, our experiments
+demonstrate that our approach is successful in adapting past influenza
+forecasting models to the current pandemic, while improving upon previous
+COVID-19 forecasting models, by steadily outperforming alternative benchmark
+methods, and remaining competitive with publicly available models.
+Date : 2022-02-05T19:45:51Z
+Titre du document Arxiv : COVID-19 Cough Classification using Machine Learning and Global
+  Smartphone Recordings
+Auteur : ['Madhurananda Pahar', 'Marisa Klopper', 'Robin Warren', 'Thomas Niesler']
+Texte : We present a machine learning based COVID-19 cough classifier which can
+discriminate COVID-19 positive coughs from both COVID-19 negative and healthy
+coughs recorded on a smartphone. This type of screening is non-contact, easy to
+apply, and can reduce the workload in testing centres as well as limit
+transmission by recommending early self-isolation to those who have a cough
+suggestive of COVID-19. The datasets used in this study include subjects from
+all six continents and contain both forced and natural coughs, indicating that
+the approach is widely applicable. The publicly available Coswara dataset
+contains 92 COVID-19 positive and 1079 healthy subjects, while the second
+smaller dataset was collected mostly in South Africa and contains 18 COVID-19
+positive and 26 COVID-19 negative subjects who have undergone a SARS-CoV
+laboratory test. Both datasets indicate that COVID-19 positive coughs are
+15\%-20\% shorter than non-COVID coughs. Dataset skew was addressed by applying
+the synthetic minority oversampling technique (SMOTE). A leave-$p$-out
+cross-validation scheme was used to train and evaluate seven machine learning
+classifiers: LR, KNN, SVM, MLP, CNN, LSTM and Resnet50. Our results show that
+although all classifiers were able to identify COVID-19 coughs, the best
+performance was exhibited by the Resnet50 classifier, which was best able to
+discriminate between the COVID-19 positive and the healthy coughs with an area
+under the ROC curve (AUC) of 0.98. An LSTM classifier was best able to
+discriminate between the COVID-19 positive and COVID-19 negative coughs, with
+an AUC of 0.94 after selecting the best 13 features from a sequential forward
+selection (SFS). Since this type of cough audio classification is
+cost-effective and easy to deploy, it is potentially a useful and viable means
+of non-contact COVID-19 screening.
+Date : 2020-12-02T13:35:42Z
+Titre du document Arxiv : COVID-19 Detection and Analysis From Lung CT Images using Novel Channel
+  Boosted CNNs
+Auteur : ['Saddam Hussain Khan']
+Texte : In December 2019, the global pandemic COVID-19 in Wuhan, China, affected
+human life and the worldwide economy. Therefore, an efficient diagnostic system
+is required to control its spread. However, the automatic diagnostic system
+poses challenges with a limited amount of labeled data, minor contrast
+variation, and high structural similarity between infection and background. In
+this regard, a new two-phase deep convolutional neural network (CNN) based
+diagnostic system is proposed to detect minute irregularities and analyze
+COVID-19 infection. In the first phase, a novel SB-STM-BRNet CNN is developed,
+incorporating a new channel Squeezed and Boosted (SB) and dilated
+convolutional-based Split-Transform-Merge (STM) block to detect COVID-19
+infected lung CT images. The new STM blocks performed multi-path
+region-smoothing and boundary operations, which helped to learn minor contrast
+variation and global COVID-19 specific patterns. Furthermore, the diverse
+boosted channels are achieved using the SB and Transfer Learning concepts in
+STM blocks to learn texture variation between COVID-19-specific and healthy
+images. In the second phase, COVID-19 infected images are provided to the novel
+COVID-CB-RESeg segmentation CNN to identify and analyze COVID-19 infectious
+regions. The proposed COVID-CB-RESeg methodically employed region-homogeneity
+and heterogeneity operations in each encoder-decoder block and boosted-decoder
+using auxiliary channels to simultaneously learn the low illumination and
+boundaries of the COVID-19 infected region. The proposed diagnostic system
+yields good performance in terms of accuracy: 98.21 %, F-score: 98.24%, Dice
+Similarity: 96.40 %, and IOU: 98.85 % for the COVID-19 infected region. The
+proposed diagnostic system would reduce the burden and strengthen the
+radiologist's decision for a fast and accurate COVID-19 diagnosis.
+Date : 2022-09-22T12:32:16Z
+Titre du document Arxiv : COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and
+  Transformer in Transformer
+Auteur : ['Juntao Jiang', 'Shuyi Lin']
+Texte : The Coronavirus Disease 2019 (COVID-19) has spread globally and caused
+serious damage. Chest X-ray images are widely used for COVID-19 diagnosis and
+the Artificial Intelligence method can increase efficiency and accuracy. In the
+Challenge of Chest XR COVID-19 detection in Ethics and Explainability for
+Responsible Data Science (EE-RDS) conference 2021, we proposed a method that
+combined Swin Transformer and Transformer in Transformer to classify chest
+X-ray images as three classes: COVID-19, Pneumonia, and Normal (healthy) and
+achieved 0.9475 accuracies on the test set.
+Date : 2021-10-16T00:53:21Z
+Titre du document Arxiv : Covid-19 diagnosis from x-ray using neural networks
+Auteur : ['Dinesh J', 'Mohammed Rhithick A']
+Texte : Corona virus or COVID-19 is a pandemic illness, which has influenced more
+than million of causalities worldwide and infected a few large number of
+individuals .Innovative instrument empowering quick screening of the COVID-19
+contamination with high precision can be critically useful to the medical care
+experts. The primary clinical device presently being used for the analysis of
+COVID-19 is the Reverse record polymerase chain response as known as RT-PCR,
+which is costly, less-delicate and requires specific clinical work force. X-Ray
+imaging is an effectively available apparatus that can be a great option in the
+COVID-19 conclusion. This exploration was taken to examine the utility of
+computerized reasoning in the quick and exact recognition of COVID-19 from
+chest X-Ray pictures. The point of this paper is to propose a procedure for
+programmed recognition of COVID-19 from advanced chest X-Ray images applying
+pre-prepared profound learning calculations while boosting the discovery
+exactness. The point is to give over-focused on clinical experts a second pair
+of eyes through a learning picture characterization models. We distinguish an
+appropriate Convolutional Neural Network-CNN model through beginning similar
+investigation of a few mainstream CNN models.
+Date : 2021-05-29T16:12:15Z
+Titre du document Arxiv : COVID-19 Disease Identification on Chest-CT images using CNN and VGG16
+Auteur : ['Briskline Kiruba S', 'Petchiammal A', 'D. Murugan']
+Texte : A newly identified coronavirus disease called COVID-19 mainly affects the
+human respiratory system. COVID-19 is an infectious disease caused by a virus
+originating in Wuhan, China, in December 2019. Early diagnosis is the primary
+challenge of health care providers. In the earlier stage, medical organizations
+were dazzled because there were no proper health aids or medicine to detect a
+COVID-19. A new diagnostic tool RT-PCR (Reverse Transcription Polymerase Chain
+Reaction), was introduced. It collects swab specimens from the patient's nose
+or throat, where the COVID-19 virus gathers. This method has some limitations
+related to accuracy and testing time. Medical experts suggest an alternative
+approach called CT (Computed Tomography) that can quickly diagnose the infected
+lung areas and identify the COVID-19 in an earlier stage. Using chest CT
+images, computer researchers developed several deep learning models identifying
+the COVID-19 disease. This study presents a Convolutional Neural Network (CNN)
+and VGG16-based model for automated COVID-19 identification on chest CT images.
+The experimental results using a public dataset of 14320 CT images showed a
+classification accuracy of 96.34% and 96.99% for CNN and VGG16, respectively.
+Date : 2022-07-09T07:20:15Z
+Titre du document Arxiv : COVID-19 Docking Server: A meta server for docking small molecules,
+  peptides and antibodies against potential targets of COVID-19
+Auteur : ['Ren Kong', 'Guangbo Yang', 'Rui Xue', 'Ming Liu', 'Feng Wang', 'Jianping Hu', 'Xiaoqiang Guo', 'Shan Chang']
+Texte : Motivation: The coronavirus disease 2019 (COVID-19) caused by a new type of
+coronavirus has been emerging from China and led to thousands of death globally
+since December 2019. Despite many groups have engaged in studying the newly
+emerged virus and searching for the treatment of COVID-19, the understanding of
+the COVID-19 target-ligand interactions represents a key chal-lenge. Herein, we
+introduce COVID-19 Docking Server, a web server that predicts the binding modes
+between COVID-19 targets and the ligands including small molecules, peptides
+and anti-bodies. Results: Structures of proteins involved in the virus life
+cycle were collected or constructed based on the homologs of coronavirus, and
+prepared ready for docking. The meta platform provides a free and interactive
+tool for the prediction of COVID-19 target-ligand interactions and following
+drug discovery for COVID-19.
+Date : 2020-02-29T02:44:02Z
+Titre du document Arxiv : COVID-19 Hospitalizations Forecasts Using Internet Search Data
+Auteur : ['Tao Wang', 'Simin Ma', 'Soobin Baek', 'Shihao Yang']
+Texte : As the COVID-19 spread over the globe and new variants of COVID-19 keep
+occurring, reliable real-time forecasts of COVID-19 hospitalizations are
+critical for public health decision on medical resources allocations such as
+ICU beds, ventilators, and personnel to prepare for the surge of COVID-19
+pandemics. Inspired by the strong association between public search behavior
+and hospitalization admission, we extended previously-proposed influenza
+tracking model, ARGO (AutoRegression with GOogle search data), to predict
+future 2-week national and state-level COVID-19 new hospital admissions.
+Leveraging the COVID-19 related time series information and Google search data,
+our method is able to robustly capture new COVID-19 variants' surges, and
+self-correct at both national and state level. Based on our retrospective
+out-of-sample evaluation over 12-month comparison period, our method achieves
+on average 15\% error reduction over the best alternative models collected from
+COVID-19 forecast hub. Overall, we showed that our method is flexible,
+self-correcting, robust, accurate, and interpretable, making it a potentially
+powerful tool to assist health-care officials and decision making for the
+current and future infectious disease outbreak.
+Date : 2022-02-03T21:56:20Z
+Titre du document Arxiv : COVID-19 Induced Economic Uncertainty: A Comparison between the United
+  Kingdom and the United States
+Auteur : ['Ugur Korkut Pata']
+Texte : The purpose of this study is to investigate the effects of the COVID-19
+pandemic on economic policy uncertainty in the US and the UK. The impact of the
+increase in COVID-19 cases and deaths in the country, and the increase in the
+number of cases and deaths outside the country may vary. To examine this, the
+study employs bootstrap ARDL cointegration approach from March 8, 2020 to May
+24, 2020. According to the bootstrap ARDL results, a long-run equilibrium
+relationship is confirmed for five out of the 10 models. The long-term
+coefficients obtained from the ARDL models suggest that an increase in COVID-19
+cases and deaths outside of the UK and the US has a significant effect on
+economic policy uncertainty. The US is more affected by the increase in the
+number of COVID-19 cases. The UK, on the other hand, is more negatively
+affected by the increase in the number of COVID-19 deaths outside the country
+than the increase in the number of cases. Moreover, another important finding
+from the study demonstrates that COVID-19 is a factor of great uncertainty for
+both countries in the short-term.
+Date : 2020-06-29T00:22:07Z
+Titre du document Arxiv : COVID-19 Pandemic Outbreak in the Subcontinent: A data-driven analysis
+Auteur : ['Bikash Chandra Singh', 'Zulfikar Alom', 'Mohammad Muntasir Rahman', 'Mrinal Kanti Baowaly', 'Mohammad Abdul Azim']
+Texte : Human civilization is experiencing a critical situation that presents itself
+for a new coronavirus disease 2019 (COVID-19). This virus emerged in late
+December 2019 in Wuhan city, Hubei, China. The grim fact of COVID-19 is, it is
+highly contagious in nature, therefore, spreads rapidly all over the world and
+causes severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Responding
+to the severity of COVID-19 research community directs the attention to the
+analysis of COVID-19, to diminish its antagonistic impact towards society.
+Numerous studies claim that the subcontinent, i.e., Bangladesh, India, and
+Pakistan, could remain in the worst affected region by the COVID-19. In order
+to prevent the spread of COVID-19, it is important to predict the trend of
+COVID-19 beforehand the planning of effective control strategies.
+Fundamentally, the idea is to dependably estimate the reproduction number to
+judge the spread rate of COVID-19 in a particular region. Consequently, this
+paper uses publicly available epidemiological data of Bangladesh, India, and
+Pakistan to estimate the reproduction numbers. More specifically, we use
+various models (for example, susceptible infection recovery (SIR), exponential
+growth (EG), sequential Bayesian (SB), maximum likelihood (ML) and time
+dependent (TD)) to estimate the reproduction numbers and observe the model
+fitness in the corresponding data set. Experimental results show that the
+reproduction numbers produced by these models are greater than 1.2
+(approximately) indicates that COVID-19 is gradually spreading in the
+subcontinent.
+Date : 2020-08-22T10:40:17Z
+Titre du document Arxiv : COVID-19 SignSym: a fast adaptation of a general clinical NLP tool to
+  identify and normalize COVID-19 signs and symptoms to OMOP common data model
+Auteur : ['Jingqi Wang', 'Noor Abu-el-rub', 'Josh Gray', 'Huy Anh Pham', 'Yujia Zhou', 'Frank Manion', 'Mei Liu', 'Xing Song', 'Hua Xu', 'Masoud Rouhizadeh', 'Yaoyun Zhang']
+Texte : The COVID-19 pandemic swept across the world rapidly, infecting millions of
+people. An efficient tool that can accurately recognize important clinical
+concepts of COVID-19 from free text in electronic health records (EHRs) will be
+valuable to accelerate COVID-19 clinical research. To this end, this study aims
+at adapting the existing CLAMP natural language processing tool to quickly
+build COVID-19 SignSym, which can extract COVID-19 signs/symptoms and their 8
+attributes (body location, severity, temporal expression, subject, condition,
+uncertainty, negation, and course) from clinical text. The extracted
+information is also mapped to standard concepts in the Observational Medical
+Outcomes Partnership common data model. A hybrid approach of combining deep
+learning-based models, curated lexicons, and pattern-based rules was applied to
+quickly build the COVID-19 SignSym from CLAMP, with optimized performance. Our
+extensive evaluation using 3 external sites with clinical notes of COVID-19
+patients, as well as the online medical dialogues of COVID-19, shows COVID-19
+Sign-Sym can achieve high performance across data sources. The workflow used
+for this study can be generalized to other use cases, where existing clinical
+natural language processing tools need to be customized for specific
+information needs within a short time. COVID-19 SignSym is freely accessible to
+the research community as a downloadable package
+(https://clamp.uth.edu/covid/nlp.php) and has been used by 16 healthcare
+organizations to support clinical research of COVID-19.
+Date : 2020-07-13T15:57:26Z
+Titre du document Reddit: COVID-19 vaccines: From nasal drops to a redesign, what 2023 could have in store
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 00:09:38
+Nombres de commentaires : 1
+Titre du document Arxiv : COVID-19 vs Social Media Apps: Does Privacy Really Matter?
+Auteur : ['Omar Haggag', 'Sherif Haggag', 'John Grundy', 'Mohamed Abdelrazek']
+Texte : Many people around the world are worried about using or even downloading
+COVID-19 contact tracing mobile apps. The main reported concerns are centered
+around privacy and ethical issues. At the same time, people are voluntarily
+using Social Media apps at a significantly higher rate during the pandemic
+without similar privacy concerns compared with COVID-19 apps. To better
+understand these seemingly anomalous behaviours, we analysed the privacy
+policies, terms & conditions and data use agreements of the most commonly used
+COVID-19, Social Media & Productivity apps. We also developed a tool to extract
+and analyse nearly 2 million user reviews for these apps. Our results show that
+Social Media & Productivity apps actually have substantially higher privacy and
+ethical issues compared with the majority of COVID-19 apps. Surprisingly, lots
+of people indicated in their user reviews that they feel more secure as their
+privacy are better handled in COVID-19 apps than in Social Media apps. On the
+other hand, most of the COVID-19 apps are less accessible and stable compared
+to most Social Media apps, which negatively impacted their store ratings and
+led users to uninstall COVID-19 apps more frequently. Our findings suggest that
+in order to effectively fight this pandemic, health officials and technologists
+will need to better raise awareness among people about COVID-19 app behaviour
+and trustworthiness. This will allow people to better understand COVID-19 apps
+and encourage them to download and use these apps. Moreover, COVID-19 apps need
+many accessibility enhancements to allow a wider range of users from different
+societies and cultures to access to these apps.
+Date : 2021-03-01T02:08:34Z
+Titre du document Arxiv : COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and
+  CT image collection on COVID-19 from biomedical literature
+Auteur : ['Yifan Peng', 'Yu-Xing Tang', 'Sungwon Lee', 'Yingying Zhu', 'Ronald M. Summers', 'Zhiyong Lu']
+Texte : The latest threat to global health is the COVID-19 outbreak. Although there
+exist large datasets of chest X-rays (CXR) and computed tomography (CT) scans,
+few COVID-19 image collections are currently available due to patient privacy.
+At the same time, there is a rapid growth of COVID-19-relevant articles in the
+biomedical literature. Here, we present COVID-19-CT-CXR, a public database of
+COVID-19 CXR and CT images, which are automatically extracted from
+COVID-19-relevant articles from the PubMed Central Open Access (PMC-OA) Subset.
+We extracted figures, associated captions, and relevant figure descriptions in
+the article and separated compound figures into subfigures. We also designed a
+deep-learning model to distinguish them from other figure types and to classify
+them accordingly. The final database includes 1,327 CT and 263 CXR images (as
+of May 9, 2020) with their relevant text. To demonstrate the utility of
+COVID-19-CT-CXR, we conducted four case studies. (1) We show that
+COVID-19-CT-CXR, when used as additional training data, is able to contribute
+to improved DL performance for the classification of COVID-19 and non-COVID-19
+CT. (2) We collected CT images of influenza and trained a DL baseline to
+distinguish a diagnosis of COVID-19, influenza, or normal or other types of
+diseases on CT. (3) We trained an unsupervised one-class classifier from
+non-COVID-19 CXR and performed anomaly detection to detect COVID-19 CXR. (4)
+From text-mined captions and figure descriptions, we compared clinical symptoms
+and clinical findings of COVID-19 vs. those of influenza to demonstrate the
+disease differences in the scientific publications. We believe that our work is
+complementary to existing resources and hope that it will contribute to medical
+image analysis of the COVID-19 pandemic. The dataset, code, and DL models are
+publicly available at https://github.com/ncbi-nlp/COVID-19-CT-CXR.
+Date : 2020-06-11T04:00:56Z
+Titre du document Reddit: COVID-19: Quebec detects first cases of highly contagious Kraken subvariant
+Auteur : Binkytastic
+Resumé : 
+Date : 2023-01-06 14:30:11
+Nombres de commentaires : 1
+Titre du document Arxiv : COVID-CT-Dataset: A CT Scan Dataset about COVID-19
+Auteur : ['Xingyi Yang', 'Xuehai He', 'Jinyu Zhao', 'Yichen Zhang', 'Shanghang Zhang', 'Pengtao Xie']
+Texte : During the outbreak time of COVID-19, computed tomography (CT) is a useful
+manner for diagnosing COVID-19 patients. Due to privacy issues, publicly
+available COVID-19 CT datasets are highly difficult to obtain, which hinders
+the research and development of AI-powered diagnosis methods of COVID-19 based
+on CTs. To address this issue, we build an open-sourced dataset -- COVID-CT,
+which contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19
+CTs. The utility of this dataset is confirmed by a senior radiologist who has
+been diagnosing and treating COVID-19 patients since the outbreak of this
+pandemic. We also perform experimental studies which further demonstrate that
+this dataset is useful for developing AI-based diagnosis models of COVID-19.
+Using this dataset, we develop diagnosis methods based on multi-task learning
+and self-supervised learning, that achieve an F1 of 0.90, an AUC of 0.98, and
+an accuracy of 0.89. According to the senior radiologist, models with such
+performance are good enough for clinical usage. The data and code are available
+at https://github.com/UCSD-AI4H/COVID-CT
+Date : 2020-03-30T23:27:24Z
+Titre du document Arxiv : COVID-DA: Deep Domain Adaptation from Typical Pneumonia to COVID-19
+Auteur : ['Yifan Zhang', 'Shuaicheng Niu', 'Zhen Qiu', 'Ying Wei', 'Peilin Zhao', 'Jianhua Yao', 'Junzhou Huang', 'Qingyao Wu', 'Mingkui Tan']
+Texte : The outbreak of novel coronavirus disease 2019 (COVID-19) has already
+infected millions of people and is still rapidly spreading all over the globe.
+Most COVID-19 patients suffer from lung infection, so one important diagnostic
+method is to screen chest radiography images, e.g., X-Ray or CT images.
+However, such examinations are time-consuming and labor-intensive, leading to
+limited diagnostic efficiency. To solve this issue, AI-based technologies, such
+as deep learning, have been used recently as effective computer-aided means to
+improve diagnostic efficiency. However, one practical and critical difficulty
+is the limited availability of annotated COVID-19 data, due to the prohibitive
+annotation costs and urgent work of doctors to fight against the pandemic. This
+makes the learning of deep diagnosis models very challenging. To address this,
+motivated by that typical pneumonia has similar characteristics with COVID-19
+and many pneumonia datasets are publicly available, we propose to conduct
+domain knowledge adaptation from typical pneumonia to COVID-19. There are two
+main challenges: 1) the discrepancy of data distributions between domains; 2)
+the task difference between the diagnosis of typical pneumonia and COVID-19. To
+address them, we propose a new deep domain adaptation method for COVID-19
+diagnosis, namely COVID-DA. Specifically, we alleviate the domain discrepancy
+via feature adversarial adaptation and handle the task difference issue via a
+novel classifier separation scheme. In this way, COVID-DA is able to diagnose
+COVID-19 effectively with only a small number of COVID-19 annotations.
+Extensive experiments verify the effectiveness of COVID-DA and its great
+potential for real-world applications.
+Date : 2020-04-30T03:13:40Z
+Titre du document Arxiv : COVID-FACT: A Fully-Automated Capsule Network-based Framework for
+  Identification of COVID-19 Cases from Chest CT scans
+Auteur : ['Shahin Heidarian', 'Parnian Afshar', 'Nastaran Enshaei', 'Farnoosh Naderkhani', 'Anastasia Oikonomou', 'S. Farokh Atashzar', 'Faranak Babaki Fard', 'Kaveh Samimi', 'Konstantinos N. Plataniotis', 'Arash Mohammadi', 'Moezedin Javad Rafiee']
+Texte : The newly discovered Corona virus Disease 2019 (COVID-19) has been globally
+spreading and causing hundreds of thousands of deaths around the world as of
+its first emergence in late 2019. Computed tomography (CT) scans have shown
+distinctive features and higher sensitivity compared to other diagnostic tests,
+in particular the current gold standard, i.e., the Reverse Transcription
+Polymerase Chain Reaction (RT-PCR) test. Current deep learning-based algorithms
+are mainly developed based on Convolutional Neural Networks (CNNs) to identify
+COVID-19 pneumonia cases. CNNs, however, require extensive data augmentation
+and large datasets to identify detailed spatial relations between image
+instances. Furthermore, existing algorithms utilizing CT scans, either extend
+slice-level predictions to patient-level ones using a simple thresholding
+mechanism or rely on a sophisticated infection segmentation to identify the
+disease. In this paper, we propose a two-stage fully-automated CT-based
+framework for identification of COVID-19 positive cases referred to as the
+"COVID-FACT". COVID-FACT utilizes Capsule Networks, as its main building blocks
+and is, therefore, capable of capturing spatial information. In particular, to
+make the proposed COVID-FACT independent from sophisticated segmentation of the
+area of infection, slices demonstrating infection are detected at the first
+stage and the second stage is responsible for classifying patients into COVID
+and non-COVID cases. COVID-FACT detects slices with infection, and identifies
+positive COVID-19 cases using an in-house CT scan dataset, containing COVID-19,
+community acquired pneumonia, and normal cases. Based on our experiments,
+COVID-FACT achieves an accuracy of 90.82%, a sensitivity of 94.55%, a
+specificity of 86.04%, and an Area Under the Curve (AUC) of 0.98, while
+depending on far less supervision and annotation, in comparison to its
+counterparts.
+Date : 2020-10-30T03:30:22Z
+Titre du document Arxiv : COVID-MTL: Multitask Learning with Shift3D and Random-weighted Loss for
+  Automated Diagnosis and Severity Assessment of COVID-19
+Auteur : ['Guoqing Bao', 'Huai Chen', 'Tongliang Liu', 'Guanzhong Gong', 'Yong Yin', 'Lisheng Wang', 'Xiuying Wang']
+Texte : There is an urgent need for automated methods to assist accurate and
+effective assessment of COVID-19. Radiology and nucleic acid test (NAT) are
+complementary COVID-19 diagnosis methods. In this paper, we present an
+end-to-end multitask learning (MTL) framework (COVID-MTL) that is capable of
+automated and simultaneous detection (against both radiology and NAT) and
+severity assessment of COVID-19. COVID-MTL learns different COVID-19 tasks in
+parallel through our novel random-weighted loss function, which assigns
+learning weights under Dirichlet distribution to prevent task dominance; our
+new 3D real-time augmentation algorithm (Shift3D) introduces space variances
+for 3D CNN components by shifting low-level feature representations of
+volumetric inputs in three dimensions; thereby, the MTL framework is able to
+accelerate convergence and improve joint learning performance compared to
+single-task models. By only using chest CT scans, COVID-MTL was trained on 930
+CT scans and tested on separate 399 cases. COVID-MTL achieved AUCs of 0.939 and
+0.846, and accuracies of 90.23% and 79.20% for detection of COVID-19 against
+radiology and NAT, respectively, which outperformed the state-of-the-art
+models. Meanwhile, COVID-MTL yielded AUC of 0.800 $\pm$ 0.020 and 0.813 $\pm$
+0.021 (with transfer learning) for classifying control/suspected, mild/regular,
+and severe/critically-ill cases. To decipher the recognition mechanism, we also
+identified high-throughput lung features that were significantly related (P <
+0.001) to the positivity and severity of COVID-19.
+Date : 2020-12-10T08:30:46Z
+Titre du document Arxiv : COVID-Net Assistant: A Deep Learning-Driven Virtual Assistant for
+  COVID-19 Symptom Prediction and Recommendation
+Auteur : ['Pengyuan Shi', 'Yuetong Wang', 'Saad Abbasi', 'Alexander Wong']
+Texte : As the COVID-19 pandemic continues to put a significant burden on healthcare
+systems worldwide, there has been growing interest in finding inexpensive
+symptom pre-screening and recommendation methods to assist in efficiently using
+available medical resources such as PCR tests. In this study, we introduce the
+design of COVID-Net Assistant, an efficient virtual assistant designed to
+provide symptom prediction and recommendations for COVID-19 by analyzing users'
+cough recordings through deep convolutional neural networks. We explore a
+variety of highly customized, lightweight convolutional neural network
+architectures generated via machine-driven design exploration (which we refer
+to as COVID-Net Assistant neural networks) on the Covid19-Cough benchmark
+dataset. The Covid19-Cough dataset comprises 682 cough recordings from a
+COVID-19 positive cohort and 642 from a COVID-19 negative cohort. Among the 682
+cough recordings labeled positive, 382 recordings were verified by PCR test.
+Our experimental results show promising, with the COVID-Net Assistant neural
+networks demonstrating robust predictive performance, achieving AUC scores of
+over 0.93, with the best score over 0.95 while being fast and efficient in
+inference. The COVID-Net Assistant models are made available in an open source
+manner through the COVID-Net open initiative and, while not a production-ready
+solution, we hope their availability acts as a good resource for clinical
+scientists, machine learning researchers, as well as citizen scientists to
+develop innovative solutions.
+Date : 2022-11-22T01:41:48Z
+Titre du document Arxiv : COVID-Net CT-2: Enhanced Deep Neural Networks for Detection of COVID-19
+  from Chest CT Images Through Bigger, More Diverse Learning
+Auteur : ['Hayden Gunraj', 'Ali Sabri', 'David Koff', 'Alexander Wong']
+Texte : The COVID-19 pandemic continues to rage on, with multiple waves causing
+substantial harm to health and economies around the world. Motivated by the use
+of CT imaging at clinical institutes around the world as an effective
+complementary screening method to RT-PCR testing, we introduced COVID-Net CT, a
+neural network tailored for detection of COVID-19 cases from chest CT images as
+part of the open source COVID-Net initiative. However, one potential limiting
+factor is restricted quantity and diversity given the single nation patient
+cohort used. In this study, we introduce COVID-Net CT-2, enhanced deep neural
+networks for COVID-19 detection from chest CT images trained on the largest
+quantity and diversity of multinational patient cases in research literature.
+We introduce two new CT benchmark datasets, the largest comprising a
+multinational cohort of 4,501 patients from at least 15 countries. We leverage
+explainability to investigate the decision-making behaviour of COVID-Net CT-2,
+with the results for select cases reviewed and reported on by two
+board-certified radiologists with over 10 and 30 years of experience,
+respectively. The COVID-Net CT-2 neural networks achieved accuracy, COVID-19
+sensitivity, PPV, specificity, and NPV of 98.1%/96.2%/96.7%/99%/98.8% and
+97.9%/95.7%/96.4%/98.9%/98.7%, respectively. Explainability-driven performance
+validation shows that COVID-Net CT-2's decision-making behaviour is consistent
+with radiologist interpretation by leveraging correct, clinically relevant
+critical factors. The results are promising and suggest the strong potential of
+deep neural networks as an effective tool for computer-aided COVID-19
+assessment. While not a production-ready solution, we hope the open-source,
+open-access release of COVID-Net CT-2 and benchmark datasets will continue to
+enable researchers, clinicians, and citizen data scientists alike to build upon
+them.
+Date : 2021-01-19T03:04:09Z
+Titre du document Arxiv : COVID-Net CT-S: 3D Convolutional Neural Network Architectures for
+  COVID-19 Severity Assessment using Chest CT Images
+Auteur : ['Hossein Aboutalebi', 'Saad Abbasi', 'Mohammad Javad Shafiee', 'Alexander Wong']
+Texte : The health and socioeconomic difficulties caused by the COVID-19 pandemic
+continues to cause enormous tensions around the world. In particular, this
+extraordinary surge in the number of cases has put considerable strain on
+health care systems around the world. A critical step in the treatment and
+management of COVID-19 positive patients is severity assessment, which is
+challenging even for expert radiologists given the subtleties at different
+stages of lung disease severity. Motivated by this challenge, we introduce
+COVID-Net CT-S, a suite of deep convolutional neural networks for predicting
+lung disease severity due to COVID-19 infection. More specifically, a 3D
+residual architecture design is leveraged to learn volumetric visual indicators
+characterizing the degree of COVID-19 lung disease severity. Experimental
+results using the patient cohort collected by the China National Center for
+Bioinformation (CNCB) showed that the proposed COVID-Net CT-S networks, by
+leveraging volumetric features, can achieve significantly improved severity
+assessment performance when compared to traditional severity assessment
+networks that learn and leverage 2D visual features to characterize COVID-19
+severity.
+Date : 2021-05-04T04:44:41Z
+Titre du document Arxiv : COVID-Net MLSys: Designing COVID-Net for the Clinical Workflow
+Auteur : ['Audrey G. Chung', 'Maya Pavlova', 'Hayden Gunraj', 'Naomi Terhljan', 'Alexander MacLean', 'Hossein Aboutalebi', 'Siddharth Surana', 'Andy Zhao', 'Saad Abbasi', 'Alexander Wong']
+Texte : As the COVID-19 pandemic continues to devastate globally, one promising field
+of research is machine learning-driven computer vision to streamline various
+parts of the COVID-19 clinical workflow. These machine learning methods are
+typically stand-alone models designed without consideration for the integration
+necessary for real-world application workflows. In this study, we take a
+machine learning and systems (MLSys) perspective to design a system for
+COVID-19 patient screening with the clinical workflow in mind. The COVID-Net
+system is comprised of the continuously evolving COVIDx dataset, COVID-Net deep
+neural network for COVID-19 patient detection, and COVID-Net S deep neural
+networks for disease severity scoring for COVID-19 positive patient cases. The
+deep neural networks within the COVID-Net system possess state-of-the-art
+performance, and are designed to be integrated within a user interface (UI) for
+clinical decision support with automatic report generation to assist clinicians
+in their treatment decisions.
+Date : 2021-09-14T04:13:24Z
+Titre du document Arxiv : COVID-Net UV: An End-to-End Spatio-Temporal Deep Neural Network
+  Architecture for Automated Diagnosis of COVID-19 Infection from Ultrasound
+  Videos
+Auteur : ['Hilda Azimi', 'Ashkan Ebadi', 'Jessy Song', 'Pengcheng Xi', 'Alexander Wong']
+Texte : Besides vaccination, as an effective way to mitigate the further spread of
+COVID-19, fast and accurate screening of individuals to test for the disease is
+yet necessary to ensure public health safety. We propose COVID-Net UV, an
+end-to-end hybrid spatio-temporal deep neural network architecture, to detect
+COVID-19 infection from lung point-of-care ultrasound videos captured by convex
+transducers. COVID-Net UV comprises a convolutional neural network that
+extracts spatial features and a recurrent neural network that learns temporal
+dependence. After careful hyperparameter tuning, the network achieves an
+average accuracy of 94.44% with no false-negative cases for COVID-19 cases. The
+goal with COVID-Net UV is to assist front-line clinicians in the fight against
+COVID-19 via accelerating the screening of lung point-of-care ultrasound videos
+and automatic detection of COVID-19 positive cases.
+Date : 2022-05-18T13:59:16Z
+Titre du document Arxiv : COVID-Net: A Tailored Deep Convolutional Neural Network Design for
+  Detection of COVID-19 Cases from Chest X-Ray Images
+Auteur : ['Linda Wang', 'Alexander Wong']
+Texte : The COVID-19 pandemic continues to have a devastating effect on the health
+and well-being of the global population. A critical step in the fight against
+COVID-19 is effective screening of infected patients, with one of the key
+screening approaches being radiology examination using chest radiography.
+Motivated by this and inspired by the open source efforts of the research
+community, in this study we introduce COVID-Net, a deep convolutional neural
+network design tailored for the detection of COVID-19 cases from chest X-ray
+(CXR) images that is open source and available to the general public. To the
+best of the authors' knowledge, COVID-Net is one of the first open source
+network designs for COVID-19 detection from CXR images at the time of initial
+release. We also introduce COVIDx, an open access benchmark dataset that we
+generated comprising of 13,975 CXR images across 13,870 patient patient cases,
+with the largest number of publicly available COVID-19 positive cases to the
+best of the authors' knowledge. Furthermore, we investigate how COVID-Net makes
+predictions using an explainability method in an attempt to not only gain
+deeper insights into critical factors associated with COVID cases, which can
+aid clinicians in improved screening, but also audit COVID-Net in a responsible
+and transparent manner to validate that it is making decisions based on
+relevant information from the CXR images. By no means a production-ready
+solution, the hope is that the open access COVID-Net, along with the
+description on constructing the open source COVIDx dataset, will be leveraged
+and build upon by both researchers and citizen data scientists alike to
+accelerate the development of highly accurate yet practical deep learning
+solutions for detecting COVID-19 cases and accelerate treatment of those who
+need it the most.
+Date : 2020-03-22T12:26:36Z
+Titre du document Arxiv : COVID-Rate: An Automated Framework for Segmentation of COVID-19 Lesions
+  from Chest CT Scans
+Auteur : ['Nastaran Enshaei', 'Anastasia Oikonomou', 'Moezedin Javad Rafiee', 'Parnian Afshar', 'Shahin Heidarian', 'Arash Mohammadi', 'Konstantinos N. Plataniotis', 'Farnoosh Naderkhani']
+Texte : Novel Coronavirus disease (COVID-19) is a highly contagious respiratory
+infection that has had devastating effects on the world. Recently, new COVID-19
+variants are emerging making the situation more challenging and threatening.
+Evaluation and quantification of COVID-19 lung abnormalities based on chest
+Computed Tomography (CT) scans can help determining the disease stage,
+efficiently allocating limited healthcare resources, and making informed
+treatment decisions. During pandemic era, however, visual assessment and
+quantification of COVID-19 lung lesions by expert radiologists become expensive
+and prone to error, which raises an urgent quest to develop practical
+autonomous solutions. In this context, first, the paper introduces an open
+access COVID-19 CT segmentation dataset containing 433 CT images from 82
+patients that have been annotated by an expert radiologist. Second, a Deep
+Neural Network (DNN)-based framework is proposed, referred to as the
+COVID-Rate, that autonomously segments lung abnormalities associated with
+COVID-19 from chest CT scans. Performance of the proposed COVID-Rate framework
+is evaluated through several experiments based on the introduced and external
+datasets. The results show a dice score of 0:802 and specificity and
+sensitivity of 0:997 and 0:832, respectively. Furthermore, the results indicate
+that the COVID-Rate model can efficiently segment COVID-19 lesions in both 2D
+CT images and whole lung volumes. Results on the external dataset illustrate
+generalization capabilities of the COVID-Rate model to CT images obtained from
+a different scanner.
+Date : 2021-07-04T03:19:43Z
+Titre du document Arxiv : COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research
+Auteur : ['Karin Verspoor', 'Simon Šuster', 'Yulia Otmakhova', 'Shevon Mendis', 'Zenan Zhai', 'Biaoyan Fang', 'Jey Han Lau', 'Timothy Baldwin', 'Antonio Jimeno Yepes', 'David Martinez']
+Texte : We present COVID-SEE, a system for medical literature discovery based on the
+concept of information exploration, which builds on several distinct text
+analysis and natural language processing methods to structure and organise
+information in publications, and augments search by providing a visual overview
+supporting exploration of a collection to identify key articles of interest. We
+developed this system over COVID-19 literature to help medical professionals
+and researchers explore the literature evidence, and improve findability of
+relevant information. COVID-SEE is available at http://covid-see.com.
+Date : 2020-08-18T12:14:36Z
+Titre du document Arxiv : COVID-view: Diagnosis of COVID-19 using Chest CT
+Auteur : ['Shreeraj Jadhav', 'Gaofeng Deng', 'Marlene Zawin', 'Arie E. Kaufman']
+Texte : Significant work has been done towards deep learning (DL) models for
+automatic lung and lesion segmentation and classification of COVID-19 on chest
+CT data. However, comprehensive visualization systems focused on supporting the
+dual visual+DL diagnosis of COVID-19 are non-existent. We present COVID-view, a
+visualization application specially tailored for radiologists to diagnose
+COVID-19 from chest CT data. The system incorporates a complete pipeline of
+automatic lungs segmentation, localization/ isolation of lung abnormalities,
+followed by visualization, visual and DL analysis, and
+measurement/quantification tools. Our system combines the traditional 2D
+workflow of radiologists with newer 2D and 3D visualization techniques with DL
+support for a more comprehensive diagnosis. COVID-view incorporates a novel DL
+model for classifying the patients into positive/negative COVID-19 cases, which
+acts as a reading aid for the radiologist using COVID-view and provides the
+attention heatmap as an explainable DL for the model output. We designed and
+evaluated COVID-view through suggestions, close feedback and conducting case
+studies of real-world patient data by expert radiologists who have substantial
+experience diagnosing chest CT scans for COVID-19, pulmonary embolism, and
+other forms of lung infections. We present requirements and task analysis for
+the diagnosis of COVID-19 that motivate our design choices and results in a
+practical system which is capable of handling real-world patient cases.
+Date : 2021-08-09T04:19:25Z
+Titre du document Arxiv : CovidAID: COVID-19 Detection Using Chest X-Ray
+Auteur : ['Arpan Mangal', 'Surya Kalia', 'Harish Rajgopal', 'Krithika Rangarajan', 'Vinay Namboodiri', 'Subhashis Banerjee', 'Chetan Arora']
+Texte : The exponential increase in COVID-19 patients is overwhelming healthcare
+systems across the world. With limited testing kits, it is impossible for every
+patient with respiratory illness to be tested using conventional techniques
+(RT-PCR). The tests also have long turn-around time, and limited sensitivity.
+Detecting possible COVID-19 infections on Chest X-Ray may help quarantine high
+risk patients while test results are awaited. X-Ray machines are already
+available in most healthcare systems, and with most modern X-Ray systems
+already digitized, there is no transportation time involved for the samples
+either. In this work we propose the use of chest X-Ray to prioritize the
+selection of patients for further RT-PCR testing. This may be useful in an
+inpatient setting where the present systems are struggling to decide whether to
+keep the patient in the ward along with other patients or isolate them in
+COVID-19 areas. It would also help in identifying patients with high likelihood
+of COVID with a false negative RT-PCR who would need repeat testing. Further,
+we propose the use of modern AI techniques to detect the COVID-19 patients
+using X-Ray images in an automated manner, particularly in settings where
+radiologists are not available, and help make the proposed testing technology
+scalable. We present CovidAID: COVID-19 AI Detector, a novel deep neural
+network based model to triage patients for appropriate testing. On the publicly
+available covid-chestxray-dataset [2], our model gives 90.5% accuracy with 100%
+sensitivity (recall) for the COVID-19 infection. We significantly improve upon
+the results of Covid-Net [10] on the same dataset.
+Date : 2020-04-21T08:02:52Z
+Titre du document Reddit: Daily Discussion Thread | January 06, 2023
+Auteur : AutoModerator
+Resumé : Please refer to our [Wiki](https://www.reddit.com/r/Coronavirus/wiki/index) for more information on COVID-19 and our sub. You can find answers to frequently asked questions in our [FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq), where there is valuable information such as our:
+
+[Vaccine FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_vaccines)
+
+[Vaccine appointment resource](https://www.reddit.com/r/Coronavirus/wiki/faq/vaccinefinder)
+
+&nbsp;
+
+*More information:*
+
+[The World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) maintains up-to-date and global information
+
+[Johns Hopkins case tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[CDC data tracker of COVID-19 vaccinations in the United States](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+[World COVID-19 Vaccination Tracker by NY Times](https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html)
+
+&nbsp;
+
+[Join the user moderated Discord server](https://discord.gg/R5RuY834dv) (we do not manage this and are not responsible for it)
+
+Join r/COVID19 for scientific, reliably-sourced discussion. Rules are enforced more strictly there than here in r/Coronavirus.
+
+&nbsp;
+
+*Please [modmail us](https://www.reddit.com/message/compose?to=/r/Coronavirus) with any concerns.*
+Date : 2023-01-06 09:00:12
+Nombres de commentaires : 1
+Titre du document Reddit: Daily Discussion Thread | January 07, 2023
+Auteur : AutoModerator
+Resumé : Please refer to our [Wiki](https://www.reddit.com/r/Coronavirus/wiki/index) for more information on COVID-19 and our sub. You can find answers to frequently asked questions in our [FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq), where there is valuable information such as our:
+
+[Vaccine FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_vaccines)
+
+[Vaccine appointment resource](https://www.reddit.com/r/Coronavirus/wiki/faq/vaccinefinder)
+
+&nbsp;
+
+*More information:*
+
+[The World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) maintains up-to-date and global information
+
+[Johns Hopkins case tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[CDC data tracker of COVID-19 vaccinations in the United States](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+[World COVID-19 Vaccination Tracker by NY Times](https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html)
+
+&nbsp;
+
+[Join the user moderated Discord server](https://discord.gg/R5RuY834dv) (we do not manage this and are not responsible for it)
+
+Join r/COVID19 for scientific, reliably-sourced discussion. Rules are enforced more strictly there than here in r/Coronavirus.
+
+&nbsp;
+
+*Please [modmail us](https://www.reddit.com/message/compose?to=/r/Coronavirus) with any concerns.*
+Date : 2023-01-07 09:00:09
+Nombres de commentaires : 1
+Titre du document Reddit: Daily Discussion Thread | January 08, 2023
+Auteur : AutoModerator
+Resumé : Please refer to our [Wiki](https://www.reddit.com/r/Coronavirus/wiki/index) for more information on COVID-19 and our sub. You can find answers to frequently asked questions in our [FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq), where there is valuable information such as our:
+
+[Vaccine FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_vaccines)
+
+[Vaccine appointment resource](https://www.reddit.com/r/Coronavirus/wiki/faq/vaccinefinder)
+
+&nbsp;
+
+*More information:*
+
+[The World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) maintains up-to-date and global information
+
+[Johns Hopkins case tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[CDC data tracker of COVID-19 vaccinations in the United States](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+[World COVID-19 Vaccination Tracker by NY Times](https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html)
+
+&nbsp;
+
+[Join the user moderated Discord server](https://discord.gg/R5RuY834dv) (we do not manage this and are not responsible for it)
+
+Join r/COVID19 for scientific, reliably-sourced discussion. Rules are enforced more strictly there than here in r/Coronavirus.
+
+&nbsp;
+
+*Please [modmail us](https://www.reddit.com/message/compose?to=/r/Coronavirus) with any concerns.*
+Date : 2023-01-08 09:00:10
+Nombres de commentaires : 1
+Titre du document Reddit: Daily Discussion Thread | January 09, 2023
+Auteur : AutoModerator
+Resumé : Please refer to our [Wiki](https://www.reddit.com/r/Coronavirus/wiki/index) for more information on COVID-19 and our sub. You can find answers to frequently asked questions in our [FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq), where there is valuable information such as our:
+
+[Vaccine FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_vaccines)
+
+[Vaccine appointment resource](https://www.reddit.com/r/Coronavirus/wiki/faq/vaccinefinder)
+
+&nbsp;
+
+*More information:*
+
+[The World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) maintains up-to-date and global information
+
+[Johns Hopkins case tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[CDC data tracker of COVID-19 vaccinations in the United States](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+[World COVID-19 Vaccination Tracker by NY Times](https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html)
+
+&nbsp;
+
+[Join the user moderated Discord server](https://discord.gg/R5RuY834dv) (we do not manage this and are not responsible for it)
+
+Join r/COVID19 for scientific, reliably-sourced discussion. Rules are enforced more strictly there than here in r/Coronavirus.
+
+&nbsp;
+
+*Please [modmail us](https://www.reddit.com/message/compose?to=/r/Coronavirus) with any concerns.*
+Date : 2023-01-09 09:00:11
+Nombres de commentaires : 1
+Titre du document Reddit: Daily Discussion Thread | January 10, 2023
+Auteur : AutoModerator
+Resumé : Please refer to our [Wiki](https://www.reddit.com/r/Coronavirus/wiki/index) for more information on COVID-19 and our sub. You can find answers to frequently asked questions in our [FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq), where there is valuable information such as our:
+
+[Vaccine FAQ](https://www.reddit.com/r/Coronavirus/wiki/faq#wiki_vaccines)
+
+[Vaccine appointment resource](https://www.reddit.com/r/Coronavirus/wiki/faq/vaccinefinder)
+
+&nbsp;
+
+*More information:*
+
+[The World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) maintains up-to-date and global information
+
+[Johns Hopkins case tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[CDC data tracker of COVID-19 vaccinations in the United States](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+[World COVID-19 Vaccination Tracker by NY Times](https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html)
+
+&nbsp;
+
+[Join the user moderated Discord server](https://discord.gg/R5RuY834dv) (we do not manage this and are not responsible for it)
+
+Join r/COVID19 for scientific, reliably-sourced discussion. Rules are enforced more strictly there than here in r/Coronavirus.
+
+&nbsp;
+
+*Please [modmail us](https://www.reddit.com/message/compose?to=/r/Coronavirus) with any concerns.*
+Date : 2023-01-10 09:00:11
+Nombres de commentaires : 1
+Titre du document Reddit: Danish health authorities say no need for new COVID-19 vaccination program
+Auteur : zakawer2
+Resumé : 
+Date : 2023-01-08 20:37:10
+Nombres de commentaires : 1
+Titre du document Arxiv : Deep Learning COVID-19 Features on CXR using Limited Training Data Sets
+Auteur : ['Yujin Oh', 'Sangjoon Park', 'Jong Chul Ye']
+Texte : Under the global pandemic of COVID-19, the use of artificial intelligence to
+analyze chest X-ray (CXR) image for COVID-19 diagnosis and patient triage is
+becoming important. Unfortunately, due to the emergent nature of the COVID-19
+pandemic, a systematic collection of the CXR data set for deep neural network
+training is difficult. To address this problem, here we propose a patch-based
+convolutional neural network approach with a relatively small number of
+trainable parameters for COVID-19 diagnosis. The proposed method is inspired by
+our statistical analysis of the potential imaging biomarkers of the CXR
+radiographs. Experimental results show that our method achieves
+state-of-the-art performance and provides clinically interpretable saliency
+maps, which are useful for COVID-19 diagnosis and patient triage.
+Date : 2020-04-13T03:44:42Z
+Titre du document Arxiv : Deep Learning Prediction of Severe Health Risks for Pediatric COVID-19
+  Patients with a Large Feature Set in 2021 BARDA Data Challenge
+Auteur : ['Sajid Mahmud', 'Elham Soltanikazemi', 'Frimpong Boadu', 'Ashwin Dhakal', 'Jianlin Cheng']
+Texte : Most children infected with COVID-19 have no or mild symptoms and can recover
+automatically by themselves, but some pediatric COVID-19 patients need to be
+hospitalized or even to receive intensive medical care (e.g., invasive
+mechanical ventilation or cardiovascular support) to recover from the
+illnesses. Therefore, it is critical to predict the severe health risk that
+COVID-19 infection poses to children to provide precise and timely medical care
+for vulnerable pediatric COVID-19 patients. However, predicting the severe
+health risk for COVID-19 patients including children remains a significant
+challenge because many underlying medical factors affecting the risk are still
+largely unknown. In this work, instead of searching for a small number of most
+useful features to make prediction, we design a novel large-scale bag-of-words
+like method to represent various medical conditions and measurements of
+COVID-19 patients. After some simple feature filtering based on logistical
+regression, the large set of features is used with a deep learning method to
+predict both the hospitalization risk for COVID-19 infected children and the
+severe complication risk for the hospitalized pediatric COVID-19 patients. The
+method was trained and tested the datasets of the Biomedical Advanced Research
+and Development Authority (BARDA) Pediatric COVID-19 Data Challenge held from
+Sept. 15 to Dec. 17, 2021. The results show that the approach can rather
+accurately predict the risk of hospitalization and severe complication for
+pediatric COVID-19 patients and deep learning is more accurate than other
+machine learning methods.
+Date : 2022-06-03T17:14:53Z
+Titre du document Arxiv : Detection of Covid-19 From Chest X-ray Images Using Artificial
+  Intelligence: An Early Review
+Auteur : ['Muhammad Ilyas', 'Hina Rehman', 'Amine Nait-ali']
+Texte : In 2019, the entire world is facing a situation of health emergency due to a
+newly emerged coronavirus (COVID-19). Almost 196 countries are affected by
+covid-19, while USA, Italy, China, Spain, Iran, and France have the maximum
+active cases of COVID-19. The issues, medical and healthcare departments are
+facing in delay of detecting the COVID-19. Several artificial intelligence
+based system are designed for the automatic detection of COVID-19 using chest
+x-rays. In this article we will discuss the different approaches used for the
+detection of COVID-19 and the challenges we are facing. It is mandatory to
+develop an automatic detection system to prevent the transfer of the virus
+through contact. Several deep learning architecture are deployed for the
+detection of COVID-19 such as ResNet, Inception, Googlenet etc. All these
+approaches are detecting the subjects suffering with pneumonia while its hard
+to decide whether the pneumonia is caused by COVID-19 or due to any other
+bacterial or fungal attack.
+Date : 2020-04-11T16:15:53Z
+Titre du document Arxiv : Dynamics of COVID-19 models with asymptomatic infections and quarantine
+  measures
+Auteur : ['Songbai Guo', 'Yuling Xue', 'Xiliang Li', 'Zuohuan Zheng']
+Texte : Considering the propagation characteristics of COVID-19 in different regions,
+the dynamics analysis and numerical demonstration of long-term and short-term
+models of COVID-19 are carried out, respectively. The long-term model is
+devoted to investigate the global stability of COVID-19 model with asymptomatic
+infections and quarantine measures. By using the limit system of the model and
+Lyapunov function method, it is shown that the COVID-19-free equilibrium $V^0$
+is globally asymptotically stable if the control reproduction number
+$\mathcal{R}_{c}<1$ and globally attractive if $\mathcal{R}_{c}=1$, which means
+that COVID-19 will die out; the COVID-19 equilibrium $V^{\ast}$ is globally
+asymptotically stable if $\mathcal{R}_{c}>1$, which means that COVID-19 will be
+persistent. In particular, to obtain the local stability of $V^{\ast}$, we use
+proof by contradiction and the properties of complex modulus with some novel
+details, and we prove the weak persistence of the system to obtain the global
+attractivity of $V^{\ast}$. Moreover, the final size of the corresponding
+short-term model is calculated and the stability of its multiple equilibria is
+analyzed. Numerical simulations of COVID-19 cases show that quarantine measures
+and asymptomatic infections have a non-negligible impact on the transmission of
+COVID-19.
+Date : 2022-09-12T13:35:21Z
+Titre du document Reddit: Efficacy of Do-It-Yourself air filtration units in reducing exposure to simulated respiratory aerosols
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-07 21:54:48
+Nombres de commentaires : 1
+Titre du document Arxiv : Ensemble CNN models for Covid-19 Recognition and Severity Perdition From
+  3D CT-scan
+Auteur : ['Fares Bougourzi', 'Cosimo Distante', 'Fadi Dornaika', 'Abdelmalik Taleb-Ahmed']
+Texte : Since the appearance of Covid-19 in late 2019, Covid-19 has become an active
+research topic for the artificial intelligence (AI) community. One of the most
+interesting AI topics is Covid-19 analysis of medical imaging. CT-scan imaging
+is the most informative tool about this disease. This work is part of the 2nd
+COV19D competition, where two challenges are set: Covid-19 Detection and
+Covid-19 Severity Detection from the CT-scans. For Covid-19 detection from
+CT-scans, we proposed an ensemble of 2D Convolution blocks with Densenet-161
+models. Here, each 2D convolutional block with Densenet-161 architecture is
+trained separately and in testing phase, the ensemble model is based on the
+average of their probabilities. On the other hand, we proposed an ensemble of
+Convolutional Layers with Inception models for Covid-19 severity detection. In
+addition to the Convolutional Layers, three Inception variants were used,
+namely Inception-v3, Inception-v4 and Inception-Resnet. Our proposed approaches
+outperformed the baseline approach in the validation data of the 2nd COV19D
+competition by 11% and 16% for Covid-19 detection and Covid-19 severity
+detection, respectively.
+Date : 2022-06-29T14:20:23Z
+Titre du document Arxiv : Evaluating the COVID-19 Identification ResNet (CIdeR) on the INTERSPEECH
+  COVID-19 from Audio Challenges
+Auteur : ['Alican Akman', 'Harry Coppock', 'Alexander Gaskell', 'Panagiotis Tzirakis', 'Lyn Jones', 'Björn W. Schuller']
+Texte : We report on cross-running the recent COVID-19 Identification ResNet (CIdeR)
+on the two Interspeech 2021 COVID-19 diagnosis from cough and speech audio
+challenges: ComParE and DiCOVA. CIdeR is an end-to-end deep learning neural
+network originally designed to classify whether an individual is COVID-positive
+or COVID-negative based on coughing and breathing audio recordings from a
+published crowdsourced dataset. In the current study, we demonstrate the
+potential of CIdeR at binary COVID-19 diagnosis from both the COVID-19 Cough
+and Speech Sub-Challenges of INTERSPEECH 2021, ComParE and DiCOVA. CIdeR
+achieves significant improvements over several baselines.
+Date : 2021-07-30T10:59:08Z
+Titre du document Reddit: Exclusive: China in talks with Pfizer for generic COVID drug
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 20:02:55
+Nombres de commentaires : 1
+Titre du document Arxiv : Experiments of Federated Learning for COVID-19 Chest X-ray Images
+Auteur : ['Boyi Liu', 'Bingjie Yan', 'Yize Zhou', 'Yifan Yang', 'Yixian Zhang']
+Texte : AI plays an important role in COVID-19 identification. Computer vision and
+deep learning techniques can assist in determining COVID-19 infection with
+Chest X-ray Images. However, for the protection and respect of the privacy of
+patients, the hospital's specific medical-related data did not allow leakage
+and sharing without permission. Collecting such training data was a major
+challenge. To a certain extent, this has caused a lack of sufficient data
+samples when performing deep learning approaches to detect COVID-19. Federated
+Learning is an available way to address this issue. It can effectively address
+the issue of data silos and get a shared model without obtaining local data. In
+the work, we propose the use of federated learning for COVID-19 data training
+and deploy experiments to verify the effectiveness. And we also compare
+performances of four popular models (MobileNet, ResNet18, MoblieNet, and
+COVID-Net) with the federated learning framework and without the framework.
+This work aims to inspire more researches on federated learning about COVID-19.
+Date : 2020-07-05T08:25:37Z
+Titre du document Arxiv : Exploiting Shared Knowledge from Non-COVID Lesions for
+  Annotation-Efficient COVID-19 CT Lung Infection Segmentation
+Auteur : ['Yichi Zhang', 'Qingcheng Liao', 'Lin Yuan', 'He Zhu', 'Jiezhen Xing', 'Jicong Zhang']
+Texte : The novel Coronavirus disease (COVID-19) is a highly contagious virus and has
+spread all over the world, posing an extremely serious threat to all countries.
+Automatic lung infection segmentation from computed tomography (CT) plays an
+important role in the quantitative analysis of COVID-19. However, the major
+challenge lies in the inadequacy of annotated COVID-19 datasets. Currently,
+there are several public non-COVID lung lesion segmentation datasets, providing
+the potential for generalizing useful information to the related COVID-19
+segmentation task. In this paper, we propose a novel relation-driven
+collaborative learning model to exploit shared knowledge from non-COVID lesions
+for annotation-efficient COVID-19 CT lung infection segmentation. The model
+consists of a general encoder to capture general lung lesion features based on
+multiple non-COVID lesions, and a target encoder to focus on task-specific
+features based on COVID-19 infections. Features extracted from the two parallel
+encoders are concatenated for the subsequent decoder part. We develop a
+collaborative learning scheme to regularize feature-level relation consistency
+of given input and encourage the model to learn more general and discriminative
+representation of COVID-19 infections. Extensive experiments demonstrate that
+trained with limited COVID-19 data, exploiting shared knowledge from non-COVID
+lesions can further improve state-of-the-art performance with up to 3.0% in
+dice similarity coefficient and 4.2% in normalized surface dice. Our proposed
+method promotes new insights into annotation-efficient deep learning for
+COVID-19 infection segmentation and illustrates strong potential for real-world
+applications in the global fight against COVID-19 in the absence of sufficient
+high-quality annotations.
+Date : 2020-12-31T11:40:29Z
+Titre du document Reddit: FDA releases important information about risk of COVID-19 due to certain variants not neutralized by Evusheld
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-07 21:14:12
+Nombres de commentaires : 1
+Titre du document Arxiv : Federated Learning for COVID-19 Detection with Generative Adversarial
+  Networks in Edge Cloud Computing
+Auteur : ['Dinh C. Nguyen', 'Ming Ding', 'Pubudu N. Pathirana', 'Aruna Seneviratne', 'Albert Y. Zomaya']
+Texte : COVID-19 has spread rapidly across the globe and become a deadly pandemic.
+Recently, many artificial intelligence-based approaches have been used for
+COVID-19 detection, but they often require public data sharing with cloud
+datacentres and thus remain privacy concerns. This paper proposes a new
+federated learning scheme, called FedGAN, to generate realistic COVID-19 images
+for facilitating privacy-enhanced COVID-19 detection with generative
+adversarial networks (GANs) in edge cloud computing. Particularly, we first
+propose a GAN where a discriminator and a generator based on convolutional
+neural networks (CNNs) at each edge-based medical institution alternatively are
+trained to mimic the real COVID-19 data distribution. Then, we propose a new
+federated learning solution which allows local GANs to collaborate and exchange
+learned parameters with a cloud server, aiming to enrich the global GAN model
+for generating realistic COVID-19 images without the need for sharing actual
+data. To enhance the privacy in federated COVID-19 data analytics, we integrate
+a differential privacy solution at each hospital institution. Moreover, we
+propose a new blockchain-based FedGAN framework for secure COVID-19 data
+analytics, by decentralizing the FL process with a new mining solution for low
+running latency. Simulations results demonstrate the superiority of our
+approach for COVID-19 detection over the state-of-the-art schemes.
+Date : 2021-10-14T03:43:22Z
+Titre du document Arxiv : Finding Covid-19 from Chest X-rays using Deep Learning on a Small
+  Dataset
+Auteur : ['Lawrence O. Hall', 'Rahul Paul', 'Dmitry B. Goldgof', 'Gregory M. Goldgof']
+Texte : Testing for COVID-19 has been unable to keep up with the demand. Further, the
+false negative rate is projected to be as high as 30% and test results can take
+some time to obtain. X-ray machines are widely available and provide images for
+diagnosis quickly. This paper explores how useful chest X-ray images can be in
+diagnosing COVID-19 disease. We have obtained 122 chest X-rays of COVID-19 and
+over 4,000 chest X-rays of viral and bacterial pneumonia. A pretrained deep
+convolutional neural network has been tuned on 102 COVID-19 cases and 102 other
+pneumonia cases in a 10-fold cross validation. The results were all 102
+COVID-19 cases were correctly classified and there were 8 false positives
+resulting in an AUC of 0.997. On a test set of 20 unseen COVID-19 cases all
+were correctly classified and more than 95% of 4171 other pneumonia examples
+were correctly classified. This study has flaws, most critically a lack of
+information about where in the disease process the COVID-19 cases were and the
+small data set size. More COVID-19 case images will enable a better answer to
+the question of how useful chest X-rays can be for diagnosing COVID-19 (so
+please send them).
+Date : 2020-04-05T00:58:54Z
+Titre du document Reddit: Five things to know about Long Covid and chronic fatigue syndrome
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 12:15:27
+Nombres de commentaires : 1
+Titre du document Arxiv : FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection
+Auteur : ['Zhi Qiao', 'Austin Bae', 'Lucas M. Glass', 'Cao Xiao', 'Jimeng Sun']
+Texte : To test the possibility of differentiating chest x-ray images of COVID-19
+against other pneumonia and healthy patients using deep neural networks. We
+construct the X-ray imaging data from two publicly available sources, which
+include 5508 chest x-ray images across 2874 patients with four classes: normal,
+bacterial pneumonia, non-COVID-19 viral pneumonia, and COVID-19. To identify
+COVID-19, we propose a Focal Loss Based Neural Ensemble Network (FLANNEL), a
+flexible module to ensemble several convolutional neural network (CNN) models
+and fuse with a focal loss for accurate COVID-19 detection on class imbalance
+data. FLANNEL consistently outperforms baseline models on COVID-19
+identification task in all metrics. Compared with the best baseline, FLANNEL
+shows a higher macro-F1 score with 6% relative increase on Covid-19
+identification task where it achieves 0.7833(0.07) in Precision, 0.8609(0.03)
+in Recall, and 0.8168(0.03) F1 score.
+Date : 2020-10-30T03:17:31Z
+Titre du document Reddit: Germany warns against unnecessary travel to China amid COVID surge
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 02:53:55
+Nombres de commentaires : 1
+Titre du document Reddit: Global Transport Networks and Infectious Disease Spread
+Auteur : None
+Resumé : 
+Date : 2023-01-08 10:52:25
+Nombres de commentaires : 1
+Titre du document Reddit: Greece to adopt EU recommendations regarding travel from China
+Auteur : natkr7
+Resumé : 
+Date : 2023-01-05 20:09:30
+Nombres de commentaires : 1
+Titre du document Reddit: Health Experts Warily Eye XBB.1.5, the Latest Omicron Subvariant
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-07 20:15:03
+Nombres de commentaires : 1
+Titre du document Arxiv : Heterogeneous network-based drug repurposing for COVID-19
+Auteur : ['Shuting Jin', 'Xiangxiang Zeng', 'Wei Huang', 'Feng Xia', 'Changzhi Jiang', 'Xiangrong Liu', 'Shaoliang Peng']
+Texte : The Corona Virus Disease 2019 (COVID-19) belongs to human coronaviruses
+(HCoVs), which spreads rapidly around the world. Compared with new drug
+development, drug repurposing may be the best shortcut for treating COVID-19.
+Therefore, we constructed a comprehensive heterogeneous network based on the
+HCoVs-related target proteins and use the previously proposed deepDTnet, to
+discover potential drug candidates for COVID-19. We obtain high performance in
+predicting the possible drugs effective for COVID-19 related proteins. In
+summary, this work utilizes a powerful heterogeneous network-based deep
+learning method, which may be beneficial to quickly identify candidate
+repurposable drugs toward future clinical trials for COVID-19. The code and
+data are available at https://github.com/stjin-XMU/HnDR-COVID.
+Date : 2021-07-20T01:24:40Z
+Titre du document Reddit: How serious is the threat of new Covid-19 variants?
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 13:09:46
+Nombres de commentaires : 1
+Titre du document Reddit: How Worried Should We Be About XBB.1.5?
+Auteur : theatlantic
+Resumé : 
+Date : 2023-01-05 21:02:38
+Nombres de commentaires : 1
+Titre du document Arxiv : Identifying Radiological Findings Related to COVID-19 from Medical
+  Literature
+Auteur : ['Yuxiao Liang', 'Pengtao Xie']
+Texte : Coronavirus disease 2019 (COVID-19) has infected more than one million
+individuals all over the world and caused more than 55,000 deaths, as of April
+3 in 2020. Radiological findings are important sources of information in
+guiding the diagnosis and treatment of COVID-19. However, the existing studies
+on how radiological findings are correlated with COVID-19 are conducted
+separately by different hospitals, which may be inconsistent or even
+conflicting due to population bias. To address this problem, we develop natural
+language processing methods to analyze a large collection of COVID-19
+literature containing study reports from hospitals all over the world,
+reconcile these results, and draw unbiased and universally-sensible conclusions
+about the correlation between radiological findings and COVID-19. We apply our
+method to the CORD-19 dataset and successfully extract a set of radiological
+findings that are closely tied to COVID-19.
+Date : 2020-04-04T05:33:21Z
+Titre du document Arxiv : Impact of COVID-19 on Astronomy: Two Years In
+Auteur : ['Vanessa Böhm', 'Jia Liu']
+Texte : We study the impact of the COVID-19 pandemic on astronomy using public
+records of astronomical publications. We show that COVID-19 has had both
+positive and negative impacts on research in astronomy. We find that the
+overall output of the field, measured by the yearly paper count, has increased.
+This is mainly driven by boosted individual productivity seen across most
+countries, possibly the result of cultural and technological changes in the
+scientific community during COVID. However, a decreasing number of incoming new
+researchers is seen in most of the countries we studied, indicating larger
+barriers for new researchers to enter the field or for junior researchers to
+complete their first project during COVID. Unfortunately, the overall
+improvement in productivity seen in the field is not equally shared by female
+astronomers. By fraction, fewer papers are written by women and fewer women are
+among incoming new researchers in most countries. Even though female
+astronomers also became more productive during COVID, the level of improvement
+is smaller than for men. Pre-COVID, female astronomers in the Netherlands,
+Australia, Switzerland were equally as or even more productive than their male
+colleagues. During COVID, no single country's female astronomers were able to
+be more productive than their male colleagues on average.
+Date : 2022-03-29T14:42:22Z
+Titre du document Arxiv : Impact of COVID-19 on Mobility and Electric Vehicle Charging Load
+Auteur : ['Alejandro Palomino', 'Masood Parvania', 'Regan Zane']
+Texte : The COVID-19 pandemic has depressed overall mobility across the country. The
+changes seen reflect responses to new COVID-19 cases, local health guidelines,
+and seasonality, making the relationship between mobility and COVID-19 unique
+from region to region. This paper presents a data-driven case study of electric
+vehicle (EV) charging and mobility in the wake of COVID-19. The study shows
+that the number of EV charging sessions and total energy consumed per day
+dropped by 40% immediately after the arrival of the first COVID-19 case in
+Utah. By contrast, the energy consumed per charging session fell by just 8%
+over the same periods and the distribution of session start and end times
+remained consistent throughout the year. While EV mobility dropped more
+dramatically than total vehicle mobility during the first wave of COVID-19
+cases, and returned more slowly, both returned to stable levels near their mean
+values by September 2020, despite a dramatic third wave in new infections.
+Date : 2020-11-20T02:44:07Z
+Titre du document Arxiv : Improving Load Forecast in Energy Markets During COVID-19
+Auteur : ['Ziyun Wang', 'Hao Wang']
+Texte : The abrupt outbreak of the COVID-19 pandemic was the most significant event
+in 2020, which had profound and lasting impacts across the world. Studies on
+energy markets observed a decline in energy demand and changes in energy
+consumption behaviors during COVID-19. However, as an essential part of system
+operation, how the load forecasting performs amid COVID-19 is not well
+understood. This paper aims to bridge the research gap by systematically
+evaluating models and features that can be used to improve the load forecasting
+performance amid COVID-19. Using real-world data from the New York Independent
+System Operator, our analysis employs three deep learning models and adopts
+both novel COVID-related features as well as classical weather-related
+features. We also propose simulating the stay-at-home situation with
+pre-stay-at-home weekend data and demonstrate its effectiveness in improving
+load forecasting accuracy during COVID-19.
+Date : 2021-10-01T02:55:06Z
+Titre du document Reddit: In rural eastern China, not testing for COVID becomes the norm
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 14:28:27
+Nombres de commentaires : 1
+Titre du document Arxiv : Innovation in times of Covid-19
+Auteur : ['Torsten Heinrich', 'Jangho Yang']
+Texte : Did the Covid-19 pandemic have an impact on innovation? Past economic
+disruptions, anecdotal evidence, and the previous literature suggest a decline
+with substantial differences between industries. We leverage USPTO patent
+application data to investigate and quantify the disturbance. We assess
+differences by field of technology (at the CPC subclass level) as well as the
+impact of direct and indirect relevance for the management of the pandemic.
+Direct Covid-19 relevance is identified from a keyword search of the patent
+application fulltexts; indirect Covid-19 relevance is derived from past CPC
+subclass to subclass citation patterns. We find that direct Covid-19 relevance
+is associated with a strong boost to the growth of the number of patent
+applications in the first year of the pandemic at the same order of magnitude
+(in percentage points) as the percentage of patents referencing Covid-19. We
+find no effect for indirect Covid-19 relevance, indicating a focus on applied
+research at the expense of more basic research. Fields of technology (CPC
+mainsections) have an additional significant impact, with, e.g., mainsections A
+(human necessities) and C (chemistry, metallurgy) having a strong performance.
+Date : 2022-12-29T02:44:01Z
+Titre du document Reddit: Laos Entry Requirements And Travel Restrictions: Is Laos Open And Do You Need A COVID Test
+Auteur : slimboytim
+Resumé : 
+Date : 2023-01-10 10:37:34
+Nombres de commentaires : 1
+Titre du document Arxiv : Machine Learning Automatically Detects COVID-19 using Chest CTs in a
+  Large Multicenter Cohort
+Auteur : ['Eduardo Jose Mortani Barbosa Jr.', 'Bogdan Georgescu', 'Shikha Chaganti', 'Gorka Bastarrika Aleman', 'Jordi Broncano Cabrero', 'Guillaume Chabin', 'Thomas Flohr', 'Philippe Grenier', 'Sasa Grbic', 'Nakul Gupta', 'François Mellot', 'Savvas Nicolaou', 'Thomas Re', 'Pina Sanelli', 'Alexander W. Sauter', 'Youngjin Yoo', 'Valentin Ziebandt', 'Dorin Comaniciu']
+Texte : Objectives: To investigate machine-learning classifiers and interpretable
+models using chest CT for detection of COVID-19 and differentiation from other
+pneumonias, ILD and normal CTs.
+  Methods: Our retrospective multi-institutional study obtained 2096 chest CTs
+from 16 institutions (including 1077 COVID-19 patients). Training/testing
+cohorts included 927/100 COVID-19, 388/33 ILD, 189/33 other pneumonias, and
+559/34 normal (no pathologies) CTs. A metric-based approach for classification
+of COVID-19 used interpretable features, relying on logistic regression and
+random forests. A deep learning-based classifier differentiated COVID-19 via 3D
+features extracted directly from CT attenuation and probability distribution of
+airspace opacities.
+  Results: Most discriminative features of COVID-19 are percentage of airspace
+opacity and peripheral and basal predominant opacities, concordant with the
+typical characterization of COVID-19 in the literature. Unsupervised
+hierarchical clustering compares feature distribution across COVID-19 and
+control cohorts. The metrics-based classifier achieved AUC=0.83,
+sensitivity=0.74, and specificity=0.79 of versus respectively 0.93, 0.90, and
+0.83 for the DL-based classifier. Most of ambiguity comes from non-COVID-19
+pneumonia with manifestations that overlap with COVID-19, as well as mild
+COVID-19 cases. Non-COVID-19 classification performance is 91% for ILD, 64% for
+other pneumonias and 94% for no pathologies, which demonstrates the robustness
+of our method against different compositions of control groups.
+  Conclusions: Our new method accurately discriminates COVID-19 from other
+types of pneumonia, ILD, and no pathologies CTs, using quantitative imaging
+features derived from chest CT, while balancing interpretability of results and
+classification performance, and therefore may be useful to facilitate diagnosis
+of COVID-19.
+Date : 2020-06-09T00:40:35Z
+Titre du document Reddit: Mass testing to end the COVID-19 public health threat
+Auteur : spiky-protein
+Resumé : 
+Date : 2023-01-08 21:26:21
+Nombres de commentaires : 1
+Titre du document Reddit: Maybe Don’t Unleash the Kraken
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 21:21:52
+Nombres de commentaires : 1
+Titre du document Reddit: Mazraoui latest with COVID-related heart issue
+Auteur : Binkytastic
+Resumé : 
+Date : 2023-01-07 02:49:32
+Nombres de commentaires : 1
+Titre du document Arxiv : Meta-research on COVID-19: An overview of the early trends
+Auteur : ['Giovanni Colavizza']
+Texte : COVID-19 is having a dramatic impact on research and researchers. The
+pandemic has underlined the severity of known challenges in research and
+surfaced new ones, but also accelerated the adoption of innovations and
+manifested new opportunities. This review considers early trends emerging from
+meta-research on COVID-19. In particular, it focuses on the following topics:
+i) mapping COVID-19 research; ii) data and machine learning; iii) research
+practices including open access and open data, reviewing, publishing and
+funding; iv) communicating research to the public; v) the impact of COVID-19 on
+researchers, in particular with respect to gender and career trajectories. This
+overview finds that most early meta-research on COVID-19 has been reactive and
+focused on short-term questions, while more recently a shift to consider the
+long-term consequences of COVID-19 is taking place. Based on these findings,
+the author speculates that some aspects of doing research during COVID-19 are
+more likely to persist than others. These include: the shift to virtual for
+academic events such as conferences; the use of openly accessible pre-prints;
+the `datafication' of scholarly literature and consequent broader adoption of
+machine learning in science communication; the public visibility of research
+and researchers on social and online media.
+Date : 2021-06-05T20:50:43Z
+Titre du document Reddit: Mid- and Long-Term Atrio-Ventricular Functional Changes in Children after Recovery from COVID-19 (Left ventricle dysfunction even in mild cases)
+Auteur : bemurda
+Resumé : 
+Date : 2023-01-06 16:26:32
+Nombres de commentaires : 1
+Titre du document Arxiv : Mining the Relationship Between COVID-19 Sentiment and Market
+  Performance
+Auteur : ['Ziyuan Xia', 'Jeffery Chen']
+Texte : At the beginning of the COVID-19 outbreak in March, we observed one of the
+largest stock market crashes in history. Within the months following this, a
+volatile bullish climb back to pre-pandemic performances and higher. In this
+paper, we study the stock market behavior during the initial few months of the
+COVID-19 pandemic in relation to COVID-19 sentiment. Using text sentiment
+analysis of Twitter data, we look at tweets that contain key words in relation
+to the COVID-19 pandemic and the sentiment of the tweet to understand whether
+sentiment can be used as an indicator for stock market performance. There has
+been previous research done on applying natural language processing and text
+sentiment analysis to understand the stock market performance, given how
+prevalent the impact of COVID-19 is to the economy, we want to further the
+application of these techniques to understand the relationship that COVID-19
+has with stock market performance. Our findings show that there is a strong
+relationship to COVID-19 sentiment derived from tweets that could be used to
+predict stock market performance in the future.
+Date : 2021-01-06T18:53:13Z
+Titre du document Arxiv : MiniSeg: An Extremely Minimum Network for Efficient COVID-19
+  Segmentation
+Auteur : ['Yu Qiu', 'Yun Liu', 'Shijie Li', 'Jing Xu']
+Texte : The rapid spread of the new pandemic, i.e., COVID-19, has severely threatened
+global health. Deep-learning-based computer-aided screening, e.g., COVID-19
+infected CT area segmentation, has attracted much attention. However, the
+publicly available COVID-19 training data are limited, easily causing
+overfitting for traditional deep learning methods that are usually data-hungry
+with millions of parameters. On the other hand, fast training/testing and low
+computational cost are also necessary for quick deployment and development of
+COVID-19 screening systems, but traditional deep learning methods are usually
+computationally intensive. To address the above problems, we propose MiniSeg, a
+lightweight deep learning model for efficient COVID-19 segmentation. Compared
+with traditional segmentation methods, MiniSeg has several significant
+strengths: i) it only has 83K parameters and is thus not easy to overfit; ii)
+it has high computational efficiency and is thus convenient for practical
+deployment; iii) it can be fast retrained by other users using their private
+COVID-19 data for further improving performance. In addition, we build a
+comprehensive COVID-19 segmentation benchmark for comparing MiniSeg to
+traditional methods.
+Date : 2020-04-21T04:51:37Z
+Titre du document Arxiv : MM-COVID: A Multilingual and Multimodal Data Repository for Combating
+  COVID-19 Disinformation
+Auteur : ['Yichuan Li', 'Bohan Jiang', 'Kai Shu', 'Huan Liu']
+Texte : The COVID-19 epidemic is considered as the global health crisis of the whole
+society and the greatest challenge mankind faced since World War Two.
+Unfortunately, the fake news about COVID-19 is spreading as fast as the virus
+itself. The incorrect health measurements, anxiety, and hate speeches will have
+bad consequences on people's physical health, as well as their mental health in
+the whole world. To help better combat the COVID-19 fake news, we propose a new
+fake news detection dataset MM-COVID(Multilingual and Multidimensional COVID-19
+Fake News Data Repository). This dataset provides the multilingual fake news
+and the relevant social context. We collect 3981 pieces of fake news content
+and 7192 trustworthy information from English, Spanish, Portuguese, Hindi,
+French and Italian, 6 different languages. We present a detailed and
+exploratory analysis of MM-COVID from different perspectives and demonstrate
+the utility of MM-COVID in several potential applications of COVID-19 fake news
+study on multilingual and social media.
+Date : 2020-11-08T21:42:03Z
+Titre du document Arxiv : Modeling Macroeconomic Variations After COVID-19
+Auteur : ['Serena Ng']
+Texte : The coronavirus is a global event of historical proportions and just a few
+months changed the time series properties of the data in ways that make many
+pre-covid forecasting models inadequate. It also creates a new problem for
+estimation of economic factors and dynamic causal effects because the
+variations around the outbreak can be interpreted as outliers, as shifts to the
+distribution of existing shocks, or as addition of new shocks. I take the
+latter view and use covid indicators as controls to 'de-covid' the data prior
+to estimation. I find that economic uncertainty remains high at the end of 2020
+even though real economic activity has recovered and covid uncertainty has
+receded. Dynamic responses of variables to shocks in a VAR similar in magnitude
+and shape to the ones identified before 2020 can be recovered by directly or
+indirectly modeling covid and treating it as exogenous. These responses to
+economic shocks are distinctly different from those to a covid shock which are
+much larger but shorter lived. Disentangling the two types of shocks can be
+important in macroeconomic modeling post-covid.
+Date : 2021-03-03T22:45:38Z
+Titre du document Arxiv : Modeling time evolving COVID-19 uncertainties with density dependent
+  asymptomatic infections and social reinforcement
+Auteur : ['Qing Liu', 'Longbing Cao']
+Texte : The COVID-19 pandemic has posed significant challenges in modeling its
+complex epidemic transmissions, infection and contagion, which are very
+different from known epidemics. The challenges in quantifying COVID-19
+complexities include effectively modeling its process and data uncertainties.
+The uncertainties are embedded in implicit and high-proportional undocumented
+infections, asymptomatic contagion, social reinforcement of infections, and
+various quality issues in the reported data. These uncertainties become even
+more apparent in the first two months of the COVID-19 pandemic, when the
+relevant knowledge, case reporting and testing were all limited. Here we
+introduce a novel hybrid approach Susceptible-Undocumented infected-Documented
+infected-Recovered (SUDR) model. First, SUDR (1) characterizes and
+distinguishes Undocumented (U) and Documented (D) infections commonly seen
+during COVID-19 incubation periods and asymptomatic infections. Second, SUDR
+characterizes the probabilistic density of infections by capturing exogenous
+processes. Lastly, SUDR approximates the density likelihood of COVID-19
+prevalence over time by incorporating Bayesian inference into SUDR. Different
+from existing COVID-19 models, SUDR characterizes the undocumented infections
+during unknown transmission processes. To capture the uncertainties of temporal
+transmission and social reinforcement during COVID-19 contagion, the
+transmission rate is modeled by a time-varying density function of undocumented
+infectious cases. By sampling from the mean-field posterior distribution with
+reasonable priors, SUDR handles the randomness, noise and sparsity of COVID-19
+observations widely seen in the public COVID-19 case data. The results
+demonstrate a deeper quantitative understanding of the above uncertainties, in
+comparison with classic SIR, time-dependent SIR, and probabilistic SIR models.
+Date : 2021-08-23T09:38:54Z
+Titre du document Reddit: Most people who ended up with long COVID started with a mild case, new study shows
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 06:22:23
+Nombres de commentaires : 1
+Titre du document Arxiv : NAIST COVID: Multilingual COVID-19 Twitter and Weibo Dataset
+Auteur : ['Zhiwei Gao', 'Shuntaro Yada', 'Shoko Wakamiya', 'Eiji Aramaki']
+Texte : Since the outbreak of coronavirus disease 2019 (COVID-19) in the late 2019,
+it has affected over 200 countries and billions of people worldwide. This has
+affected the social life of people owing to enforcements, such as "social
+distancing" and "stay at home." This has resulted in an increasing interaction
+through social media. Given that social media can bring us valuable information
+about COVID-19 at a global scale, it is important to share the data and
+encourage social media studies against COVID-19 or other infectious diseases.
+Therefore, we have released a multilingual dataset of social media posts
+related to COVID-19, consisting of microblogs in English and Japanese from
+Twitter and those in Chinese from Weibo. The data cover microblogs from January
+20, 2020, to March 24, 2020. This paper also provides a quantitative as well as
+qualitative analysis of these datasets by creating daily word clouds as an
+example of text-mining analysis. The dataset is now available on Github. This
+dataset can be analyzed in a multitude of ways and is expected to help in
+efficient communication of precautions related to COVID-19.
+Date : 2020-04-17T09:48:14Z
+Titre du document Reddit: Netherlands to require negative COVID test from China travelers
+Auteur : disfigured_mishap
+Resumé : 
+Date : 2023-01-06 19:33:44
+Nombres de commentaires : 1
+Titre du document Reddit: New COVID Variant Sends NYC Case Rates Soaring; Hospitalizations High
+Auteur : Realistic-Plant3957
+Resumé : 
+Date : 2023-01-10 16:42:46
+Nombres de commentaires : 1
+Titre du document Reddit: New multicountry study: 90% of people living with long COVID initially experienced only mild illness
+Auteur : SpaceLambHat
+Resumé : 
+Date : 2023-01-06 01:36:52
+Nombres de commentaires : 1
+Titre du document Reddit: New variant XBB.1.5 is ‘most transmissible’ yet, could fuel covid wave
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 13:54:51
+Nombres de commentaires : 1
+Titre du document Reddit: NIH launches Home Test to Treat, a pilot COVID-19 telehealth program
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 04:48:12
+Nombres de commentaires : 1
+Titre du document Reddit: No, Vaccines Aren’t Making New Covid Variants Worse
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 12:44:50
+Nombres de commentaires : 1
+Titre du document Arxiv : Novel Coronavirus COVID-19 Strike on Arab Countries and Territories: A
+  Situation Report I
+Auteur : ['Omar Reyad']
+Texte : The novel Coronavirus (COVID-19) is an infectious disease caused by a new
+virus called COVID-19 or 2019-nCoV that first identified in Wuhan, China. The
+disease causes respiratory illness (such as the flu) with other symptoms such
+as a cough, fever, and in more severe cases, difficulty breathing. This new
+Coronavirus seems to be very infectious and has spread quickly and globally. In
+this work, information about COVID-19 is provided and the situation in Arab
+countries and territories regarding the COVID-19 strike is presented. The next
+few weeks main expectations is also given.
+Date : 2020-03-20T21:23:03Z
+Titre du document Reddit: Ocugen-Bharat Biotech COVID vaccine [COVAXIN] meets main goals in U.S. trial
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 14:03:52
+Nombres de commentaires : 1
+Titre du document Reddit: Omicron COVID booster cuts hospitalization in over 65s, Israeli study finds
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 13:58:44
+Nombres de commentaires : 1
+Titre du document Reddit: Omicron subvariant XBB.1.5 accounts for 27.6% of U.S. COVID cases - CDC
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 20:07:48
+Nombres de commentaires : 1
+Titre du document Arxiv : On the intrinsic dimensionality of Covid-19 data: a global perspective
+Auteur : ['Abhishek Varghese', 'Edgar Santos-Fernandez', 'Francesco Denti', 'Antonietta Mira', 'Kerrie Mengersen']
+Texte : This paper aims to develop a global perspective of the complexity of the
+relationship between the standardised per-capita growth rate of Covid-19 cases,
+deaths, and the OxCGRT Covid-19 Stringency Index, a measure describing a
+country's stringency of lockdown policies. To achieve our goal, we use a
+heterogeneous intrinsic dimension estimator implemented as a Bayesian mixture
+model, called Hidalgo. We identify that the Covid-19 dataset may project onto
+two low-dimensional manifolds without significant information loss. The low
+dimensionality suggests strong dependency among the standardised growth rates
+of cases and deaths per capita and the OxCGRT Covid-19 Stringency Index for a
+country over 2020-2021. Given the low dimensional structure, it may be feasible
+to model observable Covid-19 dynamics with few parameters. Importantly, we
+identify spatial autocorrelation in the intrinsic dimension distribution
+worldwide. Moreover, we highlight that high-income countries are more likely to
+lie on low-dimensional manifolds, likely arising from aging populations,
+comorbidities, and increased per capita mortality burden from Covid-19.
+Finally, we temporally stratify the dataset to examine the intrinsic dimension
+at a more granular level throughout the Covid-19 pandemic.
+Date : 2022-03-08T15:52:26Z
+Titre du document Reddit: Pandemic Disrupted Historical Mortality Patterns, Caused Largest Jump in Deaths in 100 Years
+Auteur : late2reddit19
+Resumé : 
+Date : 2023-01-10 01:56:35
+Nombres de commentaires : 1
+Titre du document Arxiv : Pandemic Pressures and Public Health Care: Evidence from England
+Auteur : ['Thiemo Fetzer', 'Christopher Rauh']
+Texte : This paper documents that the COVID-19 pandemic induced pressures on the
+health care system have significant adverse knock-on effects on the
+accessibility and quality of non-COVID-19 care. We observe persistently
+worsened performance and longer waiting times in A&E; drastically limited
+access to specialist care; notably delayed or inaccessible diagnostic services;
+acutely undermined access to and quality of cancer care. We find that providers
+under COVID-19 pressures experience notably more excess deaths among non-COVID
+related hospital episodes such as, for example, for treatment of heart attacks.
+We estimate there to be at least one such non-COVID-19 related excess death
+among patients being admitted to hospital for non-COVID-19 reasons for every 30
+COVID-19 deaths that is caused by the disruption to the quality of care due to
+COVID-19. In total, this amounts to 4,003 non COVID-19 excess deaths from March
+2020 to February 2021. Further, there are at least 32,189 missing cancer
+patients that should counterfactually have started receiving treatment which
+suggests continued increased numbers of excess deaths in the future due to
+delayed access to care in the past.
+Date : 2022-01-24T18:56:48Z
+Titre du document Arxiv : Pay Attention to the cough: Early Diagnosis of COVID-19 using
+  Interpretable Symptoms Embeddings with Cough Sound Signal Processing
+Auteur : ['Ankit Pal', 'Malaikannan Sankarasubbu']
+Texte : COVID-19 (coronavirus disease 2019) pandemic caused by SARS-CoV-2 has led to
+a treacherous and devastating catastrophe for humanity. At the time of writing,
+no specific antivirus drugs or vaccines are recommended to control infection
+transmission and spread. The current diagnosis of COVID-19 is done by
+Reverse-Transcription Polymer Chain Reaction (RT-PCR) testing. However, this
+method is expensive, time-consuming, and not easily available in straitened
+regions. An interpretable and COVID-19 diagnosis AI framework is devised and
+developed based on the cough sounds features and symptoms metadata to overcome
+these limitations. The proposed framework's performance was evaluated using a
+medical dataset containing Symptoms and Demographic data of 30000 audio
+segments, 328 cough sounds from 150 patients with four cough classes (
+COVID-19, Asthma, Bronchitis, and Healthy). Experiments' results show that the
+model captures the better and robust feature embedding to distinguish between
+COVID-19 patient coughs and several types of non-COVID-19 coughs with higher
+specificity and accuracy of 95.04 $\pm$ 0.18% and 96.83$\pm$ 0.18%
+respectively, all the while maintaining interpretability.
+Date : 2020-10-06T01:22:50Z
+Titre du document Reddit: People who haven't had COVID will likely catch XBB.1.5 – and many will get reinfected, experts say
+Auteur : IndicationOver
+Resumé : 
+Date : 2023-01-07 22:50:23
+Nombres de commentaires : 1
+Titre du document Reddit: People who haven't had COVID will likely catch XBB.1.5 – and many will get reinfected, experts say
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 17:49:19
+Nombres de commentaires : 1
+Titre du document Reddit: Pfizer working to send COVID pill Paxlovid to China - CNBC
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 22:17:05
+Nombres de commentaires : 1
+Titre du document Reddit: Portugal to Require Covid Tests for Passengers on Flights From China
+Auteur : Fearless-Cricket3297
+Resumé : 
+Date : 2023-01-07 12:02:23
+Nombres de commentaires : 1
+Titre du document Arxiv : Predicting the spread of COVID-19 in Delhi, India using Deep Residual
+  Recurrent Neural Networks
+Auteur : ['Shashank Reddy Vadyala', 'Sai Nethra Betgeri']
+Texte : Detecting the spread of coronavirus will go a long way toward reducing human
+and economic loss. Unfortunately, existing Epidemiological models used for
+COVID 19 prediction models are too slow and fail to capture the COVID-19
+development in detail. This research uses Partial Differential Equations to
+improve the processing speed and accuracy of forecasting of COVID 19 governed
+by SEIRD model equations. The dynamics of COVID 19 were extracted using
+Convolutional Neural Networks and Deep Residual Recurrent Neural Networks from
+data simulated using PDEs. The DRRNNs accuracy is measured using Mean Squared
+Error. The DRRNNs COVID-19 prediction model has been shown to have accurate
+COVID-19 predictions. In addition, we concluded that DR-RNNs can significantly
+advance the ability to support decision-making in real time COVID-19
+prediction.
+Date : 2021-10-09T19:16:36Z
+Titre du document Arxiv : Prediction of repurposed drugs for treating lung injury in COVID-19
+Auteur : ['Bing He', 'Lana Garmire']
+Texte : Coronavirus disease (COVID-19) is an infectious disease discovered in 2019
+and currently in outbreak across the world. Lung injury with severe respiratory
+failure is the leading cause of death in COVID-19, brought by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2). However, there still lacks
+efficient treatment for COVID-19 induced lung injury and acute respiratory
+failure. Inhibition of Angiotensin-converting enzyme 2 (ACE2) caused by spike
+protein of SARS-CoV-2 is the most plausible mechanism of lung injury in
+COVID-19. We propose two candidate drugs, COL-3 (a chemically modified
+tetracycline) and CGP-60474 (a cyclin-dependent kinase inhibitor), for treating
+lung injuries in COVID-19, based on their abilities to reverse the gene
+expression patterns in HCC515 cells treated with ACE2 inhibitor and in human
+COVID-19 patient lung tissues. Further bioinformatics analysis shows that
+twelve significantly enriched pathways (P-value <0.05) overlap between HCC515
+cells treated with ACE2 inhibitor and human COVID-19 patient lung tissues,
+including signaling pathways known to be associated with lung injury such as
+TNF signaling, MAPK signaling and Chemokine signaling pathways. All these
+twelve pathways are targeted in COL-3 treated HCC515 cells, in which genes such
+as RHOA, RAC2, FAS, CDC42 have reduced expression. CGP-60474 shares eleven of
+twelve pathways with COL-3 with common target genes such as RHOA. It also
+uniquely targets genes related to lung injury, such as CALR and MMP14. In
+summary, this study shows that ACE2 inhibition is likely part of the mechanisms
+leading to lung injury in COVID-19, and that compounds such as COL-3 and
+CGP-60474 have the potential as repurposed drugs for its treatment.
+Date : 2020-03-30T03:36:44Z
+Titre du document Arxiv : Quantifying the impact of COVID-19 on the US stock market: An analysis
+  from multi-source information
+Auteur : ['Asim Kumer Dey', 'Toufiqul Haq', 'Kumer Das', 'Irina Panovska']
+Texte : We develop a novel temporal complex network approach to quantify the US
+county level spread dynamics of COVID-19. The objective is to study the effects
+of the local spread dynamics, COVID-19 cases and death, and Google search
+activities on the US stock market. We use both conventional econometric and
+Machine Learning (ML) models. The results suggest that COVID-19 cases and
+deaths, its local spread, and Google searches have impacts on abnormal stock
+prices between January 2020 to May 2020. In addition, incorporating information
+about local spread significantly improves the performance of forecasting models
+of the abnormal stock prices at longer forecasting horizons. On the other hand,
+although a few COVID-19 related variables, e.g., US total deaths and US new
+cases exhibit causal relationships on price volatility, COVID-19 cases and
+deaths, local spread of COVID-19, and Google search activities do not have
+impacts on price volatility.
+Date : 2020-08-25T08:46:37Z
+Titre du document Arxiv : QUCoughScope: An Artificially Intelligent Mobile Application to Detect
+  Asymptomatic COVID-19 Patients using Cough and Breathing Sounds
+Auteur : ['Muhammad E. H. Chowdhury', 'Nabil Ibtehaz', 'Tawsifur Rahman', 'Yosra Magdi Salih Mekki', 'Yazan Qibalwey', 'Sakib Mahmud', 'Maymouna Ezeddin', 'Susu Zughaier', 'Sumaya Ali S A Al-Maadeed']
+Texte : In the break of COVID-19 pandemic, mass testing has become essential to
+reduce the spread of the virus. Several recent studies suggest that a
+significant number of COVID-19 patients display no physical symptoms
+whatsoever. Therefore, it is unlikely that these patients will undergo COVID-19
+test, which increases their chances of unintentionally spreading the virus.
+Currently, the primary diagnostic tool to detect COVID-19 is RT-PCR test on
+collected respiratory specimens from the suspected case. This requires patients
+to travel to a laboratory facility to be tested, thereby potentially infecting
+others along the way.It is evident from recent researches that asymptomatic
+COVID-19 patients cough and breath in a different way than the healthy people.
+Several research groups have created mobile and web-platform for crowdsourcing
+the symptoms, cough and breathing sounds from healthy, COVID-19 and Non-COVID
+patients. Some of these data repositories were made public. We have received
+such a repository from Cambridge University team under data-sharing agreement,
+where we have cough and breathing sound samples for 582 and 141 healthy and
+COVID-19 patients, respectively. 87 COVID-19 patients were asymptomatic, while
+rest of them have cough. We have developed an Android application to
+automatically screen COVID-19 from the comfort of people homes. Test subjects
+can simply download a mobile application, enter their symptoms, record an audio
+clip of their cough and breath, and upload the data anonymously to our servers.
+Our backend server converts the audio clip to spectrogram and then apply our
+state-of-the-art machine learning model to classify between cough sounds
+produced by COVID-19 patients, as opposed to healthy subjects or those with
+other respiratory conditions. The system can detect asymptomatic COVID-19
+patients with a sensitivity more than 91%.
+Date : 2021-03-20T18:26:39Z
+Titre du document Reddit: Rapid tests for Covid, RSV and flu are available in Europe. What's stopping them in the U.S.?
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 23:34:51
+Nombres de commentaires : 1
+Titre du document Arxiv : Reliable COVID-19 Detection Using Chest X-ray Images
+Auteur : ['Aysen Degerli', 'Mete Ahishali', 'Serkan Kiranyaz', 'Muhammad E. H. Chowdhury', 'Moncef Gabbouj']
+Texte : Coronavirus disease 2019 (COVID-19) has emerged the need for computer-aided
+diagnosis with automatic, accurate, and fast algorithms. Recent studies have
+applied Machine Learning algorithms for COVID-19 diagnosis over chest X-ray
+(CXR) images. However, the data scarcity in these studies prevents a reliable
+evaluation with the potential of overfitting and limits the performance of deep
+networks. Moreover, these networks can discriminate COVID-19 pneumonia usually
+from healthy subjects only or occasionally, from limited pneumonia types. Thus,
+there is a need for a robust and accurate COVID-19 detector evaluated over a
+large CXR dataset. To address this need, in this study, we propose a reliable
+COVID-19 detection network: ReCovNet, which can discriminate COVID-19 pneumonia
+from 14 different thoracic diseases and healthy subjects. To accomplish this,
+we have compiled the largest COVID-19 CXR dataset: QaTa-COV19 with 124,616
+images including 4603 COVID-19 samples. The proposed ReCovNet achieved a
+detection performance with 98.57% sensitivity and 99.77% specificity.
+Date : 2021-01-28T19:57:21Z
+Titre du document Arxiv : Residual Attention U-Net for Automated Multi-Class Segmentation of
+  COVID-19 Chest CT Images
+Auteur : ['Xiaocong Chen', 'Lina Yao', 'Yu Zhang']
+Texte : The novel coronavirus disease 2019 (COVID-19) has been spreading rapidly
+around the world and caused significant impact on the public health and
+economy. However, there is still lack of studies on effectively quantifying the
+lung infection caused by COVID-19. As a basic but challenging task of the
+diagnostic framework, segmentation plays a crucial role in accurate
+quantification of COVID-19 infection measured by computed tomography (CT)
+images. To this end, we proposed a novel deep learning algorithm for automated
+segmentation of multiple COVID-19 infection regions. Specifically, we use the
+Aggregated Residual Transformations to learn a robust and expressive feature
+representation and apply the soft attention mechanism to improve the capability
+of the model to distinguish a variety of symptoms of the COVID-19. With a
+public CT image dataset, we validate the efficacy of the proposed algorithm in
+comparison with other competing methods. Experimental results demonstrate the
+outstanding performance of our algorithm for automated segmentation of COVID-19
+Chest CT images. Our study provides a promising deep leaning-based segmentation
+tool to lay a foundation to quantitative diagnosis of COVID-19 lung infection
+in CT images.
+Date : 2020-04-12T16:24:59Z
+Titre du document Reddit: RSA finds its first case of most transmissible Covid variant
+Auteur : 007rjbgp
+Resumé : 
+Date : 2023-01-07 12:02:44
+Nombres de commentaires : 1
+Titre du document Reddit: Satellite images capture crowding at China's crematoriums and funeral homes as Covid surge continues
+Auteur : burtzev
+Resumé : 
+Date : 2023-01-10 16:47:13
+Nombres de commentaires : 1
+Titre du document Reddit: Satellite images show crowds at China’s crematoriums as covid surges
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 01:59:41
+Nombres de commentaires : 1
+Titre du document Reddit: Scientific Studies Looking For Participants
+Auteur : DNAhelicase
+Resumé : *What happened to the old post/Why did you guys make a new post? - Reddit automatically archives posts after 6 months, so we needed to make another post to keep it active in order to add studies*
+
+With the rapid increase in severity of the coronavirus situation, we feel as though it is important to make a difference in any way we can. 
+
+Therefore, we are calling on YOU, our users, to help scientists progress research!
+
+**What does this mean?**
+
+This post will host all of the studies/surveys for users to participate in. **Participation is strictly voluntary, and you may withdraw from any of the below studies at any time.** This post will be stickied to the /r/Coronavirus  subreddit whenever possible in order to give these projects ample exposure.
+
+**For Researchers:** If you would like to have your study/survey posted, please [send us modmail](https://www.reddit.com/message/compose/?to=/r/Coronavirus) and we will give you instructions on how to verify your study.
+
+In addition, there is a useful resource available for researchers from SafeGraph. They are sharing their data and that of their partners free for non-commercial and academic research use. To access this database, please [click here](https://www.safegraph.com/covid-19-data-consortium?utm_source=consortium_outreach&utm_campaign=consortium_rd)
+
+**For Users:** Feel free to click on the links to any of the studies posted here that interest you and for which you qualify. Again, you are under no obligation to participate in any of the studies listed.
+
+
+**Disclaimer:** All of the studies posted here have been verified to be authentic studies, either from a recognized research facility, government organization, or academic institution, and are conducted with all the necessary ethical and legal considerations. Individual studies may outline their specific disclaimers in the comments.
+
+**NOTE: This post will remain active at all times. Please check back intermittently as we will be adding new studies on a regular basis. We may unpin the post from our front page to promote featured projects or AMAs, but we will re-pin it after the special events have ended. Individual comments with study details will be removed when the study has ended.**
+Date : 2022-05-16 18:10:19
+Nombres de commentaires : 1
+Titre du document Reddit: Should you take Paxlovid if you are mildly ill?
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 21:12:50
+Nombres de commentaires : 1
+Titre du document Reddit: Singapore doesn’t expect surge in Covid-19 cases from travellers from China: Health Minister Ong Ye Kung
+Auteur : LanJiaoDuaKee
+Resumé : 
+Date : 2023-01-09 09:21:29
+Nombres de commentaires : 1
+Titre du document Arxiv : Smoking prevalence in Covid-19 patients
+Auteur : ['Sina Bagheri-Nezhad', 'Nasser Mozayani', 'Elham Abdi', 'Setareh Rostami']
+Texte : We investigate the prevalence rate of smoking in Covid-19 patients and
+examine whether there is a difference in the distribution of smokers between
+the two statistical populations of critically ill patients with Covid-19 and
+the entire Iranian population or not. To do this, we first prepared a sample of
+1040 Covid-19 patients admitted to hospitals in Tehran, Rasht, and Bojnord.
+Then, through the non-parametric statistical runs test, we show that the sample
+was randomly selected, and it is possible to generalize the result of tests on
+the sample to the community of hospitalized Covid-19 patients. In continuation,
+we examined the hypothesis that the smoking prevalence among Covid-19 patients
+admitted to hospitals is equal to the prevalence rate of smoking in Iranian
+society. For this purpose, we used the non-parametric chi-square test, and it
+was observed that this hypothesis is rejected. The data show a significant
+difference in the prevalence of smoking between critically ill Covid-19
+patients and the whole of Iranian society. Additionally, we examined this
+hypothesis in some subpopulations, and the results were the same.
+Date : 2021-07-28T19:05:07Z
+Titre du document Reddit: Study finds no tie between COVID vaccine, infection and newborn anomalies
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 22:10:34
+Nombres de commentaires : 1
+Titre du document Reddit: Study identifies four major subtypes of long COVID
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-06 12:26:02
+Nombres de commentaires : 1
+Titre du document Arxiv : Studying the Similarity of COVID-19 Sounds based on Correlation Analysis
+  of MFCC
+Auteur : ['Mohamed Bader', 'Ismail Shahin', 'Abdelfatah Hassan']
+Texte : Recently there has been a formidable work which has been put up from the
+people who are working in the frontlines such as hospitals, clinics, and labs
+alongside researchers and scientists who are also putting tremendous efforts in
+the fight against COVID-19 pandemic. Due to the preposterous spread of the
+virus, the integration of the artificial intelligence has taken a considerable
+part in the health sector, by implementing the fundamentals of Automatic Speech
+Recognition (ASR) and deep learning algorithms. In this paper, we illustrate
+the importance of speech signal processing in the extraction of the
+Mel-Frequency Cepstral Coefficients (MFCCs) of the COVID-19 and non-COVID-19
+samples and find their relationship using Pearson correlation coefficients. Our
+results show high similarity in MFCCs between different COVID-19 cough and
+breathing sounds, while MFCC of voice is more robust between COVID-19 and
+non-COVID-19 samples. Moreover, our results are preliminary, and there is a
+possibility to exclude the voices of COVID-19 patients from further processing
+in diagnosing the disease.
+Date : 2020-10-17T11:38:05Z
+Titre du document Reddit: Sweden to Demand China Travelers Provide Negative Covid Test
+Auteur : Fearless-Cricket3297
+Resumé : 
+Date : 2023-01-05 12:06:46
+Nombres de commentaires : 1
+Titre du document Reddit: Swelling ranks of stay-at-home dads could be pandemic’s silver lining
+Auteur : diacewrb
+Resumé : 
+Date : 2023-01-10 13:45:01
+Nombres de commentaires : 1
+Titre du document Arxiv : Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image
+  Translation
+Auteur : ['Hasib Zunair', 'A. Ben Hamza']
+Texte : Motivated by the lack of publicly available datasets of chest radiographs of
+positive patients with Coronavirus disease 2019 (COVID-19), we build the
+first-of-its-kind open dataset of synthetic COVID-19 chest X-ray images of high
+fidelity using an unsupervised domain adaptation approach by leveraging class
+conditioning and adversarial training. Our contributions are twofold. First, we
+show considerable performance improvements on COVID-19 detection using various
+deep learning architectures when employing synthetic images as additional
+training set. Second, we show how our image synthesis method can serve as a
+data anonymization tool by achieving comparable detection performance when
+trained only on synthetic data. In addition, the proposed data generation
+framework offers a viable solution to the COVID-19 detection in particular, and
+to medical image classification tasks in general. Our publicly available
+benchmark dataset consists of 21,295 synthetic COVID-19 chest X-ray images. The
+insights gleaned from this dataset can be used for preventive actions in the
+fight against the COVID-19 pandemic.
+Date : 2020-10-20T13:37:40Z
+Titre du document Reddit: Tests on travelers from China offer rare snapshot of covid chaos
+Auteur : washingtonpost
+Resumé : 
+Date : 2023-01-07 17:19:07
+Nombres de commentaires : 1
+Titre du document Reddit: Thailand U-turns on COVID vaccination rule for visitors
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-09 13:56:45
+Nombres de commentaires : 1
+Titre du document Arxiv : The effect of the rapid growth of covid-19 publications on citation
+  indicators
+Auteur : ['Peter Sjögårde']
+Texte : A concern has been raised that "covidization" of research would cause an
+overemphasizes on covid-19 and pandemics at the expense of other research. The
+rapid growth of publications related to the Covid-19 pandemic renders a vast
+amount of citations from this literature. This growth may affect bibliometric
+indicators. In this paper I explored how the growth of covid-19 publications
+influences bibliometric indicators commonly used in university rankings,
+research evaluation and research allocation, namely the field normalized
+citation score and the journal impact factor. I found that the burst of
+publications in the early stage of the covid-19 pandemic affects
+field-normalized citation scores and will affect the journal impact factor.
+Publications unrelated to covid-19 are also heavily affected. I conclude that
+there is a considerable risk to draw misleading conclusions from citation
+indicators spanning over the beginning of the covid-19 pandemic, in particular
+when time series are used and when the biomedical literature is assessed.
+Date : 2022-05-02T16:17:55Z
+Titre du document Arxiv : The Impact of the COVID-19 Pandemic on Scientific Research in the Life
+  Sciences
+Auteur : ['Massimo Riccaboni', 'Luca Verginer']
+Texte : The COVID-19 outbreak has posed an unprecedented challenge to humanity and
+science. On the one side, public and private incentives have been put in place
+to promptly allocate resources toward research areas strictly related to the
+COVID-19 emergency. But on the flip side, research in many fields not directly
+related to the pandemic has lagged behind. In this paper, we assess the impact
+of COVID-19 on world scientific production in the life sciences. We investigate
+how the usage of medical subject headings (MeSH) has changed following the
+outbreak. We estimate through a difference-in-differences approach the impact
+of COVID-19 on scientific production through PubMed. We find that COVID-related
+research topics have risen to prominence, displaced clinical publications,
+diverted funds away from research areas not directly related to COVID-19 and
+that the number of publications on clinical trials in unrelated fields has
+contracted. Our results call for urgent targeted policy interventions to
+reactivate biomedical research in areas that have been neglected by the
+COVID-19 emergency.
+Date : 2021-01-31T17:32:32Z
+Titre du document Arxiv : The Morbid Realities of Social Media: An Investigation into the
+  Misinformation Shared by the Deceased Victims of COVID-19
+Auteur : ['Hussam Habib', 'Rishab Nithyanand']
+Texte : Social media platforms have had considerable impact on the real world
+especially during the Covid-19 pandemic. Misinformation related to Covid-19
+might have caused significant impact on the population specifically due to its
+association with dangerous beliefs such as anti-vaccination and Covid denial.
+In this work, we study a unique dataset of Facebook posts by users who shared
+and believed in Covid-19 misinformation before succumbing to Covid-19 often
+resulting in death. We aim to characterize the dominant themes and sources
+present in the victim's posts along with identifying the role of the platform
+in handling deadly narratives. Our analysis reveals the overwhelming
+politicization of Covid-19 through the prevalence of anti-government themes
+propagated by right-wing political and media ecosystem. Furthermore, we
+highlight the failures of Facebook's implementation and completeness of soft
+moderation actions intended to warn users of misinformation. Results from this
+study bring insights into the responsibility of political elites in shaping
+public discourse and the platform's role in dampening the reach of harmful
+misinformation.
+Date : 2022-09-20T19:47:27Z
+Titre du document Reddit: The post-holiday COVID surge is here
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 15:53:41
+Nombres de commentaires : 1
+Titre du document Arxiv : Towards a GDPR-Compliant Blockchain-Based COVID Vaccination Passport
+Auteur : ['AKM Bahalul Haque', 'Bilal Naqvi', 'A. K. M. Najmul Islam', 'Sami Hyrynsalmi']
+Texte : The COVID-19 pandemic has shaken the world and limited work/personal life
+activities. Besides the loss of human lives and agony faced by humankind, the
+pandemic has badly hit different sectors economically, including the travel
+industry. Special arrangements, including COVID test before departure and on
+arrival, and voluntary quarantine, were enforced to limit the risk of
+transmission. However, the hope for returning to a normal (pre-COVID) routine
+relies on the success of the current COVID vaccination drives administered by
+different countries. To open for tourism and other necessary travel, a need is
+realized for a universally accessible proof of COVID vaccination, allowing
+travelers to cross the borders without any hindrance. This paper presents an
+architectural framework for a GDPR-compliant blockchain-based COVID vaccination
+passport (VacciFi), whilst considering the relevant developments, especially in
+the European Union region.
+Date : 2021-07-01T16:58:43Z
+Titre du document Arxiv : Tracking the Twitter attention around the research efforts on the
+  COVID-19 pandemic
+Auteur : ['Zhichao Fang', 'Rodrigo Costas']
+Texte : The outbreak of the COVID-19 pandemic has been accompanied by a bulk of
+scientific research and related Twitter discussions. To unravel the public
+concerns about the COVID-19 crisis reflected in the science-based Twitter
+conversations, this study tracked the Twitter attention around the COVID-19
+research efforts during the first three months of 2020. On the basis of nearly
+1.4 million Twitter mentions of 6,162 COVID-19-related scientific publications,
+we investigated the temporal tweeting dynamic and the Twitter users involved in
+the online discussions around COVID-19-related research. The results show that
+the quantity of Twitter mentions of COVID-19-related publications was on
+rising. Scholarly-oriented Twitter users played an influential role in
+disseminating research outputs on COVID-19, with their tweets being frequently
+retweeted. Over time, a change in the focus of the Twitter discussions can be
+observed, from the initial attention to virological and clinical research to
+more practical topics, such as the potential treatments, the countermeasures by
+the governments, the healthcare measures, and the influences on the economy and
+society, in more recent times.
+Date : 2020-06-10T11:45:29Z
+Titre du document Reddit: Travelers rush to take advantage of China reopening
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-08 13:58:19
+Nombres de commentaires : 1
+Titre du document Arxiv : Understanding Complex Patterns in Social, Geographic, and Economic
+  Inequities in COVID-19 Mortality at the County Level in the US Using
+  Generalized Additive Models
+Auteur : ['Christian Testa']
+Texte : I present three types of applications of generalized additive models (GAMs)
+to COVID-19 mortality rates in the US for the purpose of advancing methods to
+document inequities with respect to which communities suffered disproportionate
+COVID-19 mortality rates at specific times during the first three years of the
+pandemic. First, GAMs can be used to describe the changing relationship between
+COVID-19 mortality and county-level covariates (sociodemographic, economic, and
+political metrics) over time. Second, GAMs can be used to perform
+spatiotemporal smoothing that pools information over time and space to address
+statistical instability due to small population counts or stochasticity
+resulting in a smooth, dynamic latent risk surface summarizing the mortality
+risk associated with geographic locations over time. Third, estimation of
+COVID-19 mortality associations with county-level covariates conditional on a
+smooth spatiotemporal risk surface allows for more rigorous consideration of
+how socio-environmental contexts and policies may have impacted COVID-19
+mortality. Each of these approaches provides a valuable perspective to
+documenting inequities in COVID-19 mortality by addressing the question of
+which populations have suffered the worst burden of COVID-19 mortality taking
+into account the nonlinear spatial, temporal, and social patterning of disease.
+Date : 2022-11-29T23:20:46Z
+Titre du document Arxiv : Unsupervised Text Mining of COVID-19 Records
+Auteur : ['Mohamad Zamini']
+Texte : Since the beginning of coronavirus, the disease has spread worldwide and
+drastically changed many aspects of the human's lifestyle. Twitter as a
+powerful tool can help researchers measure public health in response to
+COVID-19. According to the high volume of data production on social networks,
+automated text mining approaches can help search, read and summarize helpful
+information. This paper preprocessed the existing medical dataset regarding
+COVID-19 named CORD-19 and annotated the dataset for supervised classification
+tasks. At this time of the COVID-19 pandemic, we made a preprocessed dataset
+for the research community. This may contribute towards finding new solutions
+for some social interventions that COVID-19 has made. The preprocessed version
+of the mentioned dataset is publicly available through Github.
+Date : 2021-09-08T05:57:22Z
+Titre du document Reddit: US COVID markers rise; XBB.1.5 keeps fast pace
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-07 01:12:41
+Nombres de commentaires : 1
+Titre du document Arxiv : US Equity Risk Premiums during the COVID-19 Pandemic
+Auteur : ['Alan L. Lewis']
+Texte : We study equity risk premiums in the United States during the COVID-19
+pandemic.
+Date : 2020-04-28T22:18:04Z
+Titre du document Reddit: US keeps offering China its Covid-19 vaccines; China keeps saying no
+Auteur : IcyAssist
+Resumé : 
+Date : 2023-01-06 10:42:35
+Nombres de commentaires : 1
+Titre du document Arxiv : Using a Novel COVID-19 Calculator to Measure Positive U.S.
+  Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML)
+Auteur : ['Richard Swartzbaugh', 'Amil Khanzada', 'Praveen Govindan', 'Mert Pilanci', 'Ayomide Owoyemi', 'Les Atlas', 'Hugo Estrada', 'Richard Nall', 'Michael Lotito', 'Rich Falcone', 'Jennifer Ranjani J']
+Texte : The COVID-19 pandemic has been a scourge upon humanity, claiming the lives of
+more than 5.1 million people worldwide; the global economy contracted by 3.5%
+in 2020. This paper presents a COVID-19 calculator, synthesizing existing
+published calculators and data points, to measure the positive U.S.
+socio-economic impact of a COVID-19 AI/ML pre-screening solution (algorithm &
+application).
+Date : 2022-01-21T02:56:09Z
+Titre du document Arxiv : Using A Partial Differential Equation with Google Mobility Data to
+  Predict COVID-19 in Arizona
+Auteur : ['Haiyan Wang', 'Nao Yamamoto']
+Texte : The outbreak of COVID-19 disrupts the life of many people in the world. The
+state of Arizona in the U.S. emerges as one of the country's newest COVID-19
+hot spots. Accurate forecasting for COVID-19 cases will help governments to
+implement necessary measures and convince more people to take personal
+precautions to combat the virus. It is difficult to accurately predict the
+COVID-19 cases due to many human factors involved. This paper aims to provide a
+forecasting model for COVID-19 cases with the help of human activity data from
+the Google Community Mobility Reports. To achieve this goal, a specific partial
+differential equation (PDE) is developed and validated with the COVID-19 data
+from the New York Times at the county level in the state of Arizona in the U.S.
+The proposed model describes the combined effects of transboundary spread among
+county clusters in Arizona and human actives on the transmission of COVID-19.
+The results show that the prediction accuracy of this model is well acceptable
+(above 94\%). Furthermore, we study the effectiveness of personal precautions
+such as wearing face masks and practicing social distancing on COVID-19 cases
+at the local level. The localized analytical results can be used to help to
+slow the spread of COVID-19 in Arizona. To the best of our knowledge, this work
+is the first attempt to apply PDE models on COVID-19 prediction with the Google
+Community Mobility Reports.
+Date : 2020-06-30T15:55:35Z
+Titre du document Arxiv : Vital Measurements of Hospitalized COVID-19 Patients as a Predictor of
+  Long COVID: An EHR-based Cohort Study from the RECOVER Program in N3C
+Auteur : ['Sihang Jiang', 'Johanna Loomba', 'Suchetha Sharma', 'Donald Brown']
+Texte : It is shown that various symptoms could remain in the stage of post-acute
+sequelae of SARS-CoV-2 infection (PASC), otherwise known as Long COVID. A
+number of COVID patients suffer from heterogeneous symptoms, which severely
+impact recovery from the pandemic. While scientists are trying to give an
+unambiguous definition of Long COVID, efforts in prediction of Long COVID could
+play an important role in understanding the characteristic of this new disease.
+Vital measurements (e.g. oxygen saturation, heart rate, blood pressure) could
+reflect body's most basic functions and are measured regularly during
+hospitalization, so among patients diagnosed COVID positive and hospitalized,
+we analyze the vital measurements of first 7 days since the hospitalization
+start date to study the pattern of the vital measurements and predict Long
+COVID with the information from vital measurements.
+Date : 2022-11-15T20:24:29Z
+Titre du document Reddit: Wealthier neighbourhoods had more access to virtual mental health services in the pandemic: study
+Auteur : adotmatrix
+Resumé : 
+Date : 2023-01-08 14:41:36
+Nombres de commentaires : 1
+Titre du document Reddit: What is known about new Covid variant XBB.1.5?
+Auteur : Prunestand
+Resumé : 
+Date : 2023-01-10 15:51:16
+Nombres de commentaires : 1
+Titre du document Reddit: What is known about new Covid variant XBB.1.5? - BBC News
+Auteur : Alex09464367
+Resumé : 
+Date : 2023-01-05 20:02:53
+Nombres de commentaires : 1
+Titre du document Reddit: What we now know about long COVID and our brains
+Auteur : spiky-protein
+Resumé : 
+Date : 2023-01-06 17:19:03
+Nombres de commentaires : 1
+Titre du document Arxiv : When the Open Source Community Meets COVID-19: Characterizing COVID-19
+  themed GitHub Repositories
+Auteur : ['Liu Wang', 'Ruiqing Li', 'Jiaxin Zhu', 'Guangdong Bai', 'Haoyu Wang']
+Texte : Ever since the beginning of the outbreak of the COVID-19 pandemic,
+researchers from interdisciplinary domains have worked together to fight
+against the crisis. The open source community, plays a vital role in coping
+with the pandemic which is inherently a collaborative process. Plenty of
+COVID-19 related datasets, tools, software, deep learning models, are created
+and shared in research communities with great efforts. However, COVID-19 themed
+open source projects have not been systematically studied, and we are still
+unaware how the open source community helps combat COVID-19 in practice. To
+fill this void, in this paper, we take the first step to study COVID-19 themed
+repositories in GitHub, one of the most popular collaborative platforms. We
+have collected over 67K COVID-19 themed GitHub repositories till July 2020. We
+then characterize them from a number of aspects and classify them into six
+categories. We further investigate the contribution patterns of the
+contributors, and development and maintenance patterns of the repositories.
+This study sheds light on the promising direction of adopting open source
+technologies and resources to rapidly tackle the worldwide public health
+emergency in practice, and reveals existing challenges for improvement.
+Date : 2020-10-23T07:56:25Z
+Titre du document Reddit: WHO backs mask wearing on long flights as new Omicron variant spreads
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 14:23:25
+Nombres de commentaires : 1
+Titre du document Reddit: WHO meeting to decide on COVID emergency set for Jan. 27
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-10 14:26:25
+Nombres de commentaires : 1
+Titre du document Reddit: WHO says China releases COVID hospital data after reporting gap
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 13:51:06
+Nombres de commentaires : 1
+Titre du document Reddit: WHO warns of most transmissible subvariant, questions China’s covid data
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 13:20:18
+Nombres de commentaires : 1
+Titre du document Reddit: Why XBB.1.5 — the latest Omicron offshoot — could 'outcompete' other COVID-19 subvariants
+Auteur : jackspratdodat
+Resumé : 
+Date : 2023-01-05 14:12:30
+Nombres de commentaires : 1
